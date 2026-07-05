@@ -11,6 +11,10 @@
     var state = loadState();
     var listRenderTimer = 0;
 
+    function readingTranslate(text) {
+        return typeof mihoyyTranslate === 'function' ? mihoyyTranslate(text) : text;
+    }
+
     var tabs = document.querySelector('#text-tabs');
     var search = document.querySelector('#text-search');
     var list = document.querySelector('#text-list');
@@ -140,7 +144,7 @@
         var filtered = texts.filter(matches);
         list.innerHTML = filtered.map(function(text) {
             var active = text.id === currentTextId ? ' is-active' : '';
-            var favorite = isFavorite(text.id) ? ' · 已收藏' : '';
+            var favorite = isFavorite(text.id) ? ' · ' + readingTranslate('已收藏') : '';
             var region = text.region ? text.region + ' · ' : '';
             return [
                 '<button class="text-card' + active + '" type="button" data-text-id="' + escapeHtml(text.id) + '" style="--accent:' + textAccent(text) + '">',
@@ -150,14 +154,14 @@
                 '    <span>' + escapeHtml(text.category) + '</span>',
                 text.region ? '    <span>' + escapeHtml(text.region) + '</span>' : '',
                 '    <span>' + progressFor(text.id) + '%</span>',
-                favorite ? '    <span>已收藏</span>' : '',
+                favorite ? '    <span>' + readingTranslate('已收藏') + '</span>' : '',
                 '  </span>',
                 '</button>'
             ].join('');
         }).join('');
 
-        libraryTitle.textContent = activeCategory === allCategory ? '全部文本' : activeCategory + '文本';
-        libraryCount.textContent = filtered.length + ' / ' + texts.length + ' 篇';
+        libraryTitle.textContent = activeCategory === allCategory ? readingTranslate('全部文本') : activeCategory + " " + readingTranslate('文本');
+        libraryCount.textContent = filtered.length + ' / ' + texts.length + readingTranslate('篇');
         empty.hidden = filtered.length > 0;
     }
 
@@ -294,17 +298,17 @@
     async function renderReader() {
         var item = currentText();
         if (!item) {
-            readerTitle.textContent = '暂无文本';
+            readerTitle.textContent = readingTranslate('暂无文本');
             readerMeta.textContent = '';
-            readerSummary.textContent = '没有找到可阅读的 Markdown 文件。';
+            readerSummary.textContent = readingTranslate('没有找到可阅读的 Markdown 文件。');
             readerBody.innerHTML = '';
             return;
         }
 
         readerTitle.textContent = item.title;
         readerMeta.textContent = [item.category, item.region, item.sourceTitle].filter(Boolean).join(' · ');
-        readerSummary.textContent = '正在读取文本内容。';
-        readerBody.innerHTML = '<p class="reader-loading">正在加载 Markdown 文本...</p>';
+        readerSummary.textContent = readingTranslate('正在读取文本内容。');
+        readerBody.innerHTML = '<p class="reader-loading">' + readingTranslate('正在加载 Markdown 文本...') + '</p>';
         renderBookmark();
         applySettings();
 
@@ -315,7 +319,7 @@
             readerBody.innerHTML = renderMarkdownLines(data.lines, item);
             restoreProgress();
         } catch (error) {
-            readerSummary.textContent = '读取失败';
+            readerSummary.textContent = readingTranslate('读取失败');
             readerBody.innerHTML = '<p class="reader-error">' + escapeHtml(error.message) + '</p>';
         }
     }
@@ -394,9 +398,9 @@
     }
 
     async function loadCatalog() {
-        readerTitle.textContent = '正在加载文本库';
-        readerSummary.textContent = '正在读取文本索引。';
-        readerBody.innerHTML = '<p class="reader-loading">正在加载文本目录...</p>';
+        readerTitle.textContent = readingTranslate('正在加载文本库');
+        readerSummary.textContent = readingTranslate('正在读取文本索引。');
+        readerBody.innerHTML = '<p class="reader-loading">' + readingTranslate('正在加载文本目录...') + '</p>';
 
         var response = await fetch('catalog.json');
         if (!response.ok) {
@@ -488,8 +492,8 @@
             renderReader();
         })
         .catch(function(error) {
-            readerTitle.textContent = '文本库加载失败';
-            readerSummary.textContent = '请确认 reading/catalog.json 已生成。';
+            readerTitle.textContent = readingTranslate('文本库加载失败');
+            readerSummary.textContent = readingTranslate('请确认 reading/catalog.json 已生成。');
             readerBody.innerHTML = '<p class="reader-error">' + escapeHtml(error.message) + '</p>';
         });
 })();

@@ -11,7 +11,7 @@ const tools = [
   {
     title: "原神祈愿记录导出工具",
     url: "https://github.com/lgou2w/HoYo.Gacha",
-    description: "一个非官方的工具，用于管理和分析你的 miHoYo 抽卡记录。",
+    description: "HoYo.Gacha是一个非官方的工具，用于管理和分析你的 miHoYo 抽卡记录。",
     category: "原神",
     icon: "R",
     accent: "#4d9f96",
@@ -29,6 +29,10 @@ const grid = document.querySelector("#tools-grid");
 const title = document.querySelector("#tools-title");
 const count = document.querySelector("#tools-count");
 const empty = document.querySelector("#tools-empty");
+
+function toolsTranslate(text) {
+  return typeof mihoyyTranslate === "function" ? mihoyyTranslate(text) : text;
+}
 
 function getCategories() {
   return [allCategory, ...new Set(tools.map((tool) => tool.category))];
@@ -79,6 +83,18 @@ function createToolCard(tool) {
   const article = document.createElement("article");
   article.className = "tool-card";
   article.style.setProperty("--accent", tool.accent);
+  article.tabIndex = 0;
+  article.setAttribute("role", "link");
+  article.setAttribute("aria-label", tool.title);
+  article.addEventListener("click", () => {
+    window.open(tool.url, "_blank", "noopener,noreferrer");
+  });
+  article.addEventListener("keydown", (e) => {
+    if (e.key === "Enter" || e.key === " ") {
+      e.preventDefault();
+      window.open(tool.url, "_blank", "noopener,noreferrer");
+    }
+  });
 
   const top = document.createElement("div");
   top.className = "tool-card__top";
@@ -112,20 +128,7 @@ function createToolCard(tool) {
     meta.appendChild(chip);
   });
 
-  const actions = document.createElement("div");
-  actions.className = "tool-card__actions";
-
-  const category = document.createElement("span");
-  category.className = "tool-category";
-  category.textContent = tool.category;
-
-  const link = document.createElement("a");
-  link.className = "tool-link";
-  link.href = tool.url;
-  link.textContent = "打开工具";
-
-  actions.append(category, link);
-  article.append(top, body, meta, actions);
+  article.append(top, body, meta);
   return article;
 }
 
@@ -144,8 +147,8 @@ function renderCards(filteredTools) {
 }
 
 function renderSummary(filteredTools) {
-  title.textContent = activeCategory === allCategory ? "全部工具" : `${activeCategory}工具`;
-  count.textContent = `${filteredTools.length} 个入口`;
+  title.textContent = activeCategory === allCategory ? toolsTranslate("全部工具") : activeCategory + " " + toolsTranslate("工具");
+  count.textContent = filteredTools.length + toolsTranslate("个工具");
   empty.hidden = filteredTools.length > 0;
 }
 

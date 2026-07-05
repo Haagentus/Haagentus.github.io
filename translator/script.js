@@ -16,6 +16,10 @@
         align: 'center'
     };
 
+    function translatorTranslate(text) {
+        return typeof mihoyyTranslate === 'function' ? mihoyyTranslate(text) : text;
+    }
+
     var input = document.querySelector('#preview-input');
     var gameSelect = document.querySelector('#game-select');
     var fontSelect = document.querySelector('#font-select');
@@ -240,7 +244,7 @@
         var fontLoad = document.fonts && document.fonts.load ? document.fonts.load(state.fontSize + "px '" + state.fontFamily + "'") : Promise.resolve();
         var buttonText = saveImageButton.textContent;
         saveImageButton.disabled = true;
-        saveImageButton.textContent = '保存中';
+        saveImageButton.textContent = translatorTranslate('保存中');
         Promise.resolve(fontLoad).then(function() {
             saveImage();
         }).catch(function(error) {

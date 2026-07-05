@@ -55,11 +55,69 @@
         '全部导航': 'All Links',
         '网站导航卡片': 'Site navigation cards',
         '没有找到对应入口': 'No matching entry',
-        '换个关键词，或切回“全部”再试一次。': 'Try another keyword, or switch back to All.',
+        '换个关键词，或切回"全部"再试一次。': 'Try another keyword, or switch back to All.',
         '下载字体': 'Download Font',
         '字号': 'Size',
         '全部': 'All',
-        '搜索': 'Search'
+        '搜索': 'Search',
+        '米游相关导航站，另有翻译、阅读、工具与资源下载。': 'Mihoyo Resource Hub with translator, reading, tools, and downloads.',
+        '米乎用于整理常用导航、阅读资料、实用工具和资源入口，让访问路径更清晰。': 'Mihoyo Hub organizes useful links, reading material, tools, and resource entries into clearer routes.',
+        '原神游戏内文本库，收录书籍、角色故事、武器和圣遗物文本。选择条目后可直接阅读，并保留阅读偏好与进度。': 'Genshin in-game text library with books, character stories, weapons, and artifact texts. Select an entry to read with your reading preferences and progress saved.',
+        '搜索标题、地区、分类或文件名': 'Search title, region, category, or filename',
+        '全部文本': 'All Texts',
+        '没有找到文本': 'No text found',
+        '收藏文本': 'Bookmark text',
+        '行宽': 'Width',
+        '行高': 'Line Height',
+        '夜间主题': 'Night Theme',
+        '纸张主题': 'Paper Theme',
+        '清透主题': 'Clear Theme',
+        '阅读进度': 'Reading progress',
+        '输入英语或拉丁语，将其翻译成米游中的自创语言。': 'Type English or Latin, and render it in miHoYo invented scripts.',
+        '输入原文': 'Input text',
+        '示例': 'Examples',
+        '字距': 'Spacing',
+        '对齐': 'Align',
+        '左对齐': 'Align Left',
+        '居中': 'Center',
+        '右对齐': 'Align Right',
+        '游戏': 'Game',
+        '语言': 'Language',
+        '保存图片': 'Save Image',
+        '一些有用的工具。': 'A collection of useful tools.',
+        '搜索工具、用途或标签': 'Search tools, purpose, or tags',
+        '全部工具': 'All Tools',
+        '没有找到工具': 'No tool found',
+        '换个关键词，或切回"全部"查看当前可用入口。': 'Try another keyword, or switch back to All.',
+        '当前提供原神、崩坏：星穹铁道、绝区零相关字体下载。后续图片、素材或其他资源会继续归档到这里。': 'Download fonts for Genshin Impact, Honkai: Star Rail, and Zenless Zone Zero. More resources will be added over time.',
+        '搜索字体、说明、文件名或例句': 'Search fonts, descriptions, filenames, or samples',
+        '全部字体': 'All Fonts',
+        '没有找到资源': 'No resource found',
+        '访问网站': 'Visit',
+        '已收藏': 'Bookmarked',
+        '格式': 'Format',
+        '大小': 'Size',
+        '文件': 'File',
+        '游戏内自创文字字体': 'In-game invented script font',
+        '个入口': ' entries',
+        '个资源': ' resources',
+        '个工具': ' tools',
+        '篇': '',
+        '搜索：': 'Search: ',
+        '暂无文本': 'No text available',
+        '没有找到可阅读的 Markdown 文件。': 'No readable Markdown file found.',
+        '正在读取文本内容。': 'Loading text content.',
+        '正在加载 Markdown 文本...': 'Loading Markdown text...',
+        '读取失败': 'Failed to load',
+        '正在加载文本库': 'Loading text library',
+        '正在读取文本索引。': 'Loading text index.',
+        '正在加载文本目录...': 'Loading text catalog...',
+        '文本库加载失败': 'Text library failed to load',
+        '请确认 reading/catalog.json 已生成。': 'Please make sure reading/catalog.json has been generated.',
+        '收藏': 'Favorites',
+        '文本': ' Texts',
+        '字体': ' Fonts',
+        '保存中': 'Saving...'
     };
 
     function homeHref(hash) {
@@ -75,6 +133,8 @@
     function translateText(text) {
         return currentLanguage === 'en' && textMap[text] ? textMap[text] : text;
     }
+
+    window.mihoyyTranslate = translateText;
 
     function languageLinkLabel() {
         return currentLanguage === 'en' ? '中文' : 'EN';
@@ -253,6 +313,28 @@
         });
     }
 
+    var titleMap = {
+        '米乎': 'Mihoyo Hub',
+        '导航 - 络米星联米宇宙': 'Nav - Mihoyo Resource Hub',
+        '阅读 - 米乎': 'Reading - Mihoyo Hub',
+        '翻译 - 米乎': 'Translator - Mihoyo Hub',
+        '工具 - 米乎': 'Tools - Mihoyo Hub',
+        '下载 - 米乎': 'Downloads - Mihoyo Hub'
+    };
+
+    function translateTitle() {
+        var original = document.title;
+        if (!document.title._mihoyyOriginal) {
+            document.title._mihoyyOriginal = original;
+        }
+        var key = document.title._mihoyyOriginal;
+        if (currentLanguage === 'en' && titleMap[key]) {
+            document.title = titleMap[key];
+        } else {
+            document.title = key;
+        }
+    }
+
     function setLanguage(language, forceRandomFont) {
         currentLanguage = language === 'en' ? 'en' : 'zh';
         localStorage.setItem(languageStorageKey, currentLanguage);
@@ -270,6 +352,7 @@
         }
 
         applyStaticTranslations();
+        translateTitle();
     }
 
     function bindLanguageSwitch() {

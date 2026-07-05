@@ -12,6 +12,10 @@
     var title = document.querySelector('#download-title');
     var empty = document.querySelector('#download-empty');
 
+    function downloadTranslate(text) {
+        return typeof mihoyyTranslate === 'function' ? mihoyyTranslate(text) : text;
+    }
+
     function fontId(font) {
         return font.path.replace(/[^a-z0-9]/gi, '-');
     }
@@ -79,12 +83,12 @@
         grid.innerHTML = filtered.map(function(resource, index) {
             var direction = index % 2 === 0 ? 'bottom_to_top' : 'top_to_bottom';
             return [
-                '<article class="resource-card ih-item square colored effect3 ' + direction + '" tabindex="0" aria-label="' + escapeHtml(resource.name) + ' 字体下载详情" style="--accent:' + escapeHtml(resource.accent) + '">',
+                '<article class="resource-card ih-item square colored effect3 ' + direction + '" tabindex="0" aria-label="' + escapeHtml(resource.name) + ' ' + downloadTranslate('下载字体') + '" style="--accent:' + escapeHtml(resource.accent) + '">',
                 '  <div class="img">',
                 '    <div class="resource-face">',
                 '      <div>',
                 '        <p class="resource-font">' + escapeHtml(resource.name) + '</p>',
-                '        <p class="resource-description">' + escapeHtml(resource.description || '游戏内自创文字字体') + '</p>',
+                '        <p class="resource-description">' + escapeHtml(resource.description || downloadTranslate('游戏内自创文字字体')) + '</p>',
                 '      </div>',
                 '      <p class="resource-sample" style="font-family:\'' + escapeHtml(resource.id) + '\', Lora, serif">' + escapeHtml(resource.sample) + '</p>',
                 '    </div>',
@@ -93,19 +97,19 @@
                 '    <div class="resource-detail">',
                 '      <h3>' + escapeHtml(resource.game) + '</h3>',
                 '      <dl class="resource-meta">',
-                '        <div><dt>格式</dt><dd>' + escapeHtml(resource.format) + '</dd></div>',
-                '        <div><dt>大小</dt><dd>' + escapeHtml(resource.size) + '</dd></div>',
-                '        <div><dt>文件</dt><dd>' + escapeHtml(resource.file) + '</dd></div>',
+                '        <div><dt>' + downloadTranslate('格式') + '</dt><dd>' + escapeHtml(resource.format) + '</dd></div>',
+                '        <div><dt>' + downloadTranslate('大小') + '</dt><dd>' + escapeHtml(resource.size) + '</dd></div>',
+                '        <div><dt>' + downloadTranslate('文件') + '</dt><dd>' + escapeHtml(resource.file) + '</dd></div>',
                 '      </dl>',
-                '      <a class="primary-action" href="' + escapeHtml(resource.path) + '" download="' + escapeHtml(resource.file) + '">下载字体</a>',
+                '      <a class="primary-action" href="' + escapeHtml(resource.path) + '" download="' + escapeHtml(resource.file) + '">' + downloadTranslate('下载字体') + '</a>',
                 '    </div>',
                 '  </div>',
                 '</article>'
             ].join('');
         }).join('');
 
-        title.textContent = activeCategory === allCategory ? '全部字体' : activeCategory + '字体';
-        count.textContent = filtered.length + ' 个资源';
+        title.textContent = activeCategory === allCategory ? downloadTranslate('全部字体') : activeCategory + " " + downloadTranslate('字体');
+        count.textContent = filtered.length + downloadTranslate('个资源');
         empty.hidden = filtered.length > 0;
     }
 

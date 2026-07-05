@@ -101,11 +101,15 @@ const accents = {
   "娱乐": "#c36b76",
   "开发": "#7563b8",
   "原神": "#b9852d",
-  "崩坏三": "#c36b76",  
+  "崩坏三": "#c36b76",
   "星穹铁道": "#5d80d6",
   "绝区零": "#7563b8",
   "综合": "#4d9f96"
 };
+
+function navTranslate(text) {
+  return typeof mihoyyTranslate === 'function' ? mihoyyTranslate(text) : text;
+}
 
 const allCategory = "全部";
 let activeCategory = allCategory;
@@ -206,7 +210,7 @@ function renderCards() {
       const direction = index % 2 === 0 ? "bottom_to_top" : "top_to_bottom";
       return `
         <article class="site-card ih-item square colored effect3 ${direction}" style="--accent: ${accent}">
-          <a href="${site.url}" target="_blank" rel="noopener noreferrer" aria-label="打开 ${site.title}">
+          <a href="${site.url}" target="_blank" rel="noopener noreferrer" aria-label="${navTranslate('访问网站')} ${site.title}">
             <div class="img">
               <div class="card-face">
                 <div class="card-top">
@@ -220,7 +224,7 @@ function renderCards() {
             <div class="info">
               <h3>${site.title}</h3>
               <p>${site.description}</p>
-              <span class="visit-label">访问网站</span>
+              <span class="visit-label">${navTranslate('访问网站')}</span>
             </div>
           </a>
         </article>
@@ -228,9 +232,9 @@ function renderCards() {
     })
     .join("");
 
-  const title = activeCategory === allCategory ? "全部导航" : `${activeCategory}导航`;
-  resultTitle.textContent = query ? `搜索：${searchInput.value.trim()}` : title;
-  resultCount.textContent = `${filteredSites.length} 个入口`;
+  const title = activeCategory === allCategory ? navTranslate("全部导航") : activeCategory + " " + navTranslate("导航");
+  resultTitle.textContent = query ? navTranslate("搜索：") + searchInput.value.trim() : title;
+  resultCount.textContent = filteredSites.length + navTranslate("个入口");
   emptyState.hidden = filteredSites.length > 0;
 }
 
