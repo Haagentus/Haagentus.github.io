@@ -47,10 +47,7 @@ const sites = [
     description: "A Genshin Leakflow project",
     category: "原神",
     tag: "文档"
-  },
-
-
-  
+  },  
 
   {
     title: "光锥编辑器",
@@ -63,13 +60,6 @@ const sites = [
     title: "短信生成器",
     url: "https://sr.shenmedouyou.top/",
     description: "崩坏:星穹铁道短信生成网站",
-    category: "星穹铁道",
-    tag: "工具"
-  },
-  {
-    title: "罗浮杂俎",
-    url: "https://ghostly.shenmedouyou.top/",
-    description: "崩坏:星穹铁道 - 罗浮杂俎生成网站",
     category: "星穹铁道",
     tag: "工具"
   },
@@ -87,29 +77,12 @@ const sites = [
     category: "原神",
     tag: "文本"
   },
-
-  
-  {
-    title: "凡云の博客",
-    url: "https://lcybff.github.io/",
-    description: "开服旅行者，主要做日本原神主播反应和实用小工具~OoO~",
-    category: "原神",
-    tag: "资源"
-  },
   {
     title: "圣遗物副词条数便捷计算器",
     url: "http://spongem.com/ajglz/ys/ys.html",
     description: "圣遗物副词条数便捷计算器",
     category: "原神",
     tag: "工具"
-  },
-  
-  {
-    title: "壁吧专楼吧",
-    url: "https://bb.zlb.ink/",
-    description: "数据观察者的聚集地",
-    category: "综合",
-    tag: "社区"
   },
   {
     title: "智慧宫",

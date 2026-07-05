@@ -92,7 +92,7 @@
             '                <i class="fa fa-bars"></i>',
             '            </button>',
             '            <a class="' + brandClass + '" href="' + brandHref + '">',
-            '                <i class="fa fa-play-circle"></i> <span class="light">' + translateText(brandPrefix) + '</span> ' + translateText(brandName),
+            '                <span class="light">' + translateText(brandPrefix) + '</span> ' + translateText(brandName),
             '            </a>',
             '        </div>',
             '        <div class="collapse navbar-collapse navbar-right navbar-main-collapse">',

@@ -16,26 +16,6 @@ const tools = [
     icon: "R",
     accent: "#4d9f96",
     tags: ["工具"]
-  },
-  {
-    title: "字体资源下载",
-    url: "/download/",
-    description: "查看并下载原神、星穹铁道、绝区零自创文字字体，按游戏筛选并查看用途说明。",
-    category: "资源",
-    status: "可用",
-    icon: "D",
-    accent: "#5d80d6",
-    tags: ["字体", "下载", "资源"]
-  },
-  {
-    title: "米游站点导航",
-    url: "/navigation/",
-    description: "检索常用米游相关站点和外部工具入口，按游戏与内容类型分类浏览。",
-    category: "导航",
-    status: "可用",
-    icon: "N",
-    accent: "#7563b8",
-    tags: ["网站", "检索", "入口"]
   }
 ];
 
