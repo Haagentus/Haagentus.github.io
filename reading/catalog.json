@@ -1,0 +1,4486 @@
+{
+  "generatedAt": "2026-06-27T11:12:21.621Z",
+  "source": "GI-Ebook",
+  "items": [
+    {
+      "id": "characters/稻妻-八重神子",
+      "title": "八重神子",
+      "sourceTitle": "稻妻-八重神子",
+      "category": "角色故事",
+      "region": "稻妻",
+      "path": "GI-Ebook/characters/稻妻-八重神子.md"
+    },
+    {
+      "id": "characters/稻妻-枫原万叶",
+      "title": "枫原万叶",
+      "sourceTitle": "稻妻-枫原万叶",
+      "category": "角色故事",
+      "region": "稻妻",
+      "path": "GI-Ebook/characters/稻妻-枫原万叶.md"
+    },
+    {
+      "id": "characters/稻妻-荒泷一斗",
+      "title": "荒泷一斗",
+      "sourceTitle": "稻妻-荒泷一斗",
+      "category": "角色故事",
+      "region": "稻妻",
+      "path": "GI-Ebook/characters/稻妻-荒泷一斗.md"
+    },
+    {
+      "id": "characters/稻妻-九条裟罗",
+      "title": "九条裟罗",
+      "sourceTitle": "稻妻-九条裟罗",
+      "category": "角色故事",
+      "region": "稻妻",
+      "path": "GI-Ebook/characters/稻妻-九条裟罗.md"
+    },
+    {
+      "id": "characters/稻妻-久岐忍",
+      "title": "久岐忍",
+      "sourceTitle": "稻妻-久岐忍",
+      "category": "角色故事",
+      "region": "稻妻",
+      "path": "GI-Ebook/characters/稻妻-久岐忍.md"
+    },
+    {
+      "id": "characters/稻妻-雷电将军",
+      "title": "雷电将军",
+      "sourceTitle": "稻妻-雷电将军",
+      "category": "角色故事",
+      "region": "稻妻",
+      "path": "GI-Ebook/characters/稻妻-雷电将军.md"
+    },
+    {
+      "id": "characters/稻妻-鹿野院平藏",
+      "title": "鹿野院平藏",
+      "sourceTitle": "稻妻-鹿野院平藏",
+      "category": "角色故事",
+      "region": "稻妻",
+      "path": "GI-Ebook/characters/稻妻-鹿野院平藏.md"
+    },
+    {
+      "id": "characters/稻妻-梦见月瑞希",
+      "title": "梦见月瑞希",
+      "sourceTitle": "稻妻-梦见月瑞希",
+      "category": "角色故事",
+      "region": "稻妻",
+      "path": "GI-Ebook/characters/稻妻-梦见月瑞希.md"
+    },
+    {
+      "id": "characters/稻妻-绮良良",
+      "title": "绮良良",
+      "sourceTitle": "稻妻-绮良良",
+      "category": "角色故事",
+      "region": "稻妻",
+      "path": "GI-Ebook/characters/稻妻-绮良良.md"
+    },
+    {
+      "id": "characters/稻妻-千织l",
+      "title": "千织l",
+      "sourceTitle": "稻妻-千织l",
+      "category": "角色故事",
+      "region": "稻妻",
+      "path": "GI-Ebook/characters/稻妻-千织l.md"
+    },
+    {
+      "id": "characters/稻妻-珊瑚宫心海",
+      "title": "珊瑚宫心海",
+      "sourceTitle": "稻妻-珊瑚宫心海",
+      "category": "角色故事",
+      "region": "稻妻",
+      "path": "GI-Ebook/characters/稻妻-珊瑚宫心海.md"
+    },
+    {
+      "id": "characters/稻妻-神里绫华",
+      "title": "神里绫华",
+      "sourceTitle": "稻妻-神里绫华",
+      "category": "角色故事",
+      "region": "稻妻",
+      "path": "GI-Ebook/characters/稻妻-神里绫华.md"
+    },
+    {
+      "id": "characters/稻妻-神里绫人",
+      "title": "神里绫人",
+      "sourceTitle": "稻妻-神里绫人",
+      "category": "角色故事",
+      "region": "稻妻",
+      "path": "GI-Ebook/characters/稻妻-神里绫人.md"
+    },
+    {
+      "id": "characters/稻妻-托马",
+      "title": "托马",
+      "sourceTitle": "稻妻-托马",
+      "category": "角色故事",
+      "region": "稻妻",
+      "path": "GI-Ebook/characters/稻妻-托马.md"
+    },
+    {
+      "id": "characters/稻妻-五郎",
+      "title": "五郎",
+      "sourceTitle": "稻妻-五郎",
+      "category": "角色故事",
+      "region": "稻妻",
+      "path": "GI-Ebook/characters/稻妻-五郎.md"
+    },
+    {
+      "id": "characters/稻妻-宵宫",
+      "title": "宵宫",
+      "sourceTitle": "稻妻-宵宫",
+      "category": "角色故事",
+      "region": "稻妻",
+      "path": "GI-Ebook/characters/稻妻-宵宫.md"
+    },
+    {
+      "id": "characters/稻妻-早柚",
+      "title": "早柚",
+      "sourceTitle": "稻妻-早柚",
+      "category": "角色故事",
+      "region": "稻妻",
+      "path": "GI-Ebook/characters/稻妻-早柚.md"
+    },
+    {
+      "id": "characters/枫丹-艾梅莉埃",
+      "title": "艾梅莉埃",
+      "sourceTitle": "枫丹-艾梅莉埃",
+      "category": "角色故事",
+      "region": "枫丹",
+      "path": "GI-Ebook/characters/枫丹-艾梅莉埃.md"
+    },
+    {
+      "id": "characters/枫丹-爱可菲",
+      "title": "爱可菲",
+      "sourceTitle": "枫丹-爱可菲",
+      "category": "角色故事",
+      "region": "枫丹",
+      "path": "GI-Ebook/characters/枫丹-爱可菲.md"
+    },
+    {
+      "id": "characters/枫丹-菲米尼",
+      "title": "菲米尼",
+      "sourceTitle": "枫丹-菲米尼",
+      "category": "角色故事",
+      "region": "枫丹",
+      "path": "GI-Ebook/characters/枫丹-菲米尼.md"
+    },
+    {
+      "id": "characters/枫丹-芙宁娜",
+      "title": "芙宁娜",
+      "sourceTitle": "枫丹-芙宁娜",
+      "category": "角色故事",
+      "region": "枫丹",
+      "path": "GI-Ebook/characters/枫丹-芙宁娜.md"
+    },
+    {
+      "id": "characters/枫丹-克洛琳德",
+      "title": "克洛琳德",
+      "sourceTitle": "枫丹-克洛琳德",
+      "category": "角色故事",
+      "region": "枫丹",
+      "path": "GI-Ebook/characters/枫丹-克洛琳德.md"
+    },
+    {
+      "id": "characters/枫丹-莱欧斯利",
+      "title": "莱欧斯利",
+      "sourceTitle": "枫丹-莱欧斯利",
+      "category": "角色故事",
+      "region": "枫丹",
+      "path": "GI-Ebook/characters/枫丹-莱欧斯利.md"
+    },
+    {
+      "id": "characters/枫丹-林尼",
+      "title": "林尼",
+      "sourceTitle": "枫丹-林尼",
+      "category": "角色故事",
+      "region": "枫丹",
+      "path": "GI-Ebook/characters/枫丹-林尼.md"
+    },
+    {
+      "id": "characters/枫丹-琳妮特",
+      "title": "琳妮特",
+      "sourceTitle": "枫丹-琳妮特",
+      "category": "角色故事",
+      "region": "枫丹",
+      "path": "GI-Ebook/characters/枫丹-琳妮特.md"
+    },
+    {
+      "id": "characters/枫丹-那维莱特",
+      "title": "那维莱特",
+      "sourceTitle": "枫丹-那维莱特",
+      "category": "角色故事",
+      "region": "枫丹",
+      "path": "GI-Ebook/characters/枫丹-那维莱特.md"
+    },
+    {
+      "id": "characters/枫丹-娜维娅",
+      "title": "娜维娅",
+      "sourceTitle": "枫丹-娜维娅",
+      "category": "角色故事",
+      "region": "枫丹",
+      "path": "GI-Ebook/characters/枫丹-娜维娅.md"
+    },
+    {
+      "id": "characters/枫丹-希格雯",
+      "title": "希格雯",
+      "sourceTitle": "枫丹-希格雯",
+      "category": "角色故事",
+      "region": "枫丹",
+      "path": "GI-Ebook/characters/枫丹-希格雯.md"
+    },
+    {
+      "id": "characters/枫丹-夏洛蒂",
+      "title": "夏洛蒂",
+      "sourceTitle": "枫丹-夏洛蒂",
+      "category": "角色故事",
+      "region": "枫丹",
+      "path": "GI-Ebook/characters/枫丹-夏洛蒂.md"
+    },
+    {
+      "id": "characters/枫丹-夏沃蕾",
+      "title": "夏沃蕾",
+      "sourceTitle": "枫丹-夏沃蕾",
+      "category": "角色故事",
+      "region": "枫丹",
+      "path": "GI-Ebook/characters/枫丹-夏沃蕾.md"
+    },
+    {
+      "id": "characters/璃月-白术",
+      "title": "白术",
+      "sourceTitle": "璃月-白术",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-白术.md"
+    },
+    {
+      "id": "characters/璃月-北斗",
+      "title": "北斗",
+      "sourceTitle": "璃月-北斗",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-北斗.md"
+    },
+    {
+      "id": "characters/璃月-甘雨",
+      "title": "甘雨",
+      "sourceTitle": "璃月-甘雨",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-甘雨.md"
+    },
+    {
+      "id": "characters/璃月-胡桃",
+      "title": "胡桃",
+      "sourceTitle": "璃月-胡桃",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-胡桃.md"
+    },
+    {
+      "id": "characters/璃月-嘉明",
+      "title": "嘉明",
+      "sourceTitle": "璃月-嘉明",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-嘉明.md"
+    },
+    {
+      "id": "characters/璃月-刻晴",
+      "title": "刻晴",
+      "sourceTitle": "璃月-刻晴",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-刻晴.md"
+    },
+    {
+      "id": "characters/璃月-蓝砚",
+      "title": "蓝砚",
+      "sourceTitle": "璃月-蓝砚",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-蓝砚.md"
+    },
+    {
+      "id": "characters/璃月-凝光",
+      "title": "凝光",
+      "sourceTitle": "璃月-凝光",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-凝光.md"
+    },
+    {
+      "id": "characters/璃月-七七",
+      "title": "七七",
+      "sourceTitle": "璃月-七七",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-七七.md"
+    },
+    {
+      "id": "characters/璃月-申鹤",
+      "title": "申鹤",
+      "sourceTitle": "璃月-申鹤",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-申鹤.md"
+    },
+    {
+      "id": "characters/璃月-闲云",
+      "title": "闲云",
+      "sourceTitle": "璃月-闲云",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-闲云.md"
+    },
+    {
+      "id": "characters/璃月-香菱",
+      "title": "香菱",
+      "sourceTitle": "璃月-香菱",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-香菱.md"
+    },
+    {
+      "id": "characters/璃月-魈",
+      "title": "魈",
+      "sourceTitle": "璃月-魈",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-魈.md"
+    },
+    {
+      "id": "characters/璃月-辛焱",
+      "title": "辛焱",
+      "sourceTitle": "璃月-辛焱",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-辛焱.md"
+    },
+    {
+      "id": "characters/璃月-行秋",
+      "title": "行秋",
+      "sourceTitle": "璃月-行秋",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-行秋.md"
+    },
+    {
+      "id": "characters/璃月-烟绯",
+      "title": "烟绯",
+      "sourceTitle": "璃月-烟绯",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-烟绯.md"
+    },
+    {
+      "id": "characters/璃月-瑶瑶",
+      "title": "瑶瑶",
+      "sourceTitle": "璃月-瑶瑶",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-瑶瑶.md"
+    },
+    {
+      "id": "characters/璃月-夜兰",
+      "title": "夜兰",
+      "sourceTitle": "璃月-夜兰",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-夜兰.md"
+    },
+    {
+      "id": "characters/璃月-云堇",
+      "title": "云堇",
+      "sourceTitle": "璃月-云堇",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-云堇.md"
+    },
+    {
+      "id": "characters/璃月-钟离",
+      "title": "钟离",
+      "sourceTitle": "璃月-钟离",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-钟离.md"
+    },
+    {
+      "id": "characters/璃月-重云",
+      "title": "重云",
+      "sourceTitle": "璃月-重云",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-重云.md"
+    },
+    {
+      "id": "characters/璃月-兹白",
+      "title": "兹白",
+      "sourceTitle": "璃月-兹白",
+      "category": "角色故事",
+      "region": "璃月",
+      "path": "GI-Ebook/characters/璃月-兹白.md"
+    },
+    {
+      "id": "characters/蒙德-阿贝多",
+      "title": "阿贝多",
+      "sourceTitle": "蒙德-阿贝多",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-阿贝多.md"
+    },
+    {
+      "id": "characters/蒙德-安柏",
+      "title": "安柏",
+      "sourceTitle": "蒙德-安柏",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-安柏.md"
+    },
+    {
+      "id": "characters/蒙德-芭芭拉",
+      "title": "芭芭拉",
+      "sourceTitle": "蒙德-芭芭拉",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-芭芭拉.md"
+    },
+    {
+      "id": "characters/蒙德-班尼特",
+      "title": "班尼特",
+      "sourceTitle": "蒙德-班尼特",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-班尼特.md"
+    },
+    {
+      "id": "characters/蒙德-布伦妮",
+      "title": "布伦妮",
+      "sourceTitle": "蒙德-布伦妮",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-布伦妮.md"
+    },
+    {
+      "id": "characters/蒙德-迪奥娜",
+      "title": "迪奥娜",
+      "sourceTitle": "蒙德-迪奥娜",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-迪奥娜.md"
+    },
+    {
+      "id": "characters/蒙德-迪卢克",
+      "title": "迪卢克",
+      "sourceTitle": "蒙德-迪卢克",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-迪卢克.md"
+    },
+    {
+      "id": "characters/蒙德-杜林",
+      "title": "杜林",
+      "sourceTitle": "蒙德-杜林",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-杜林.md"
+    },
+    {
+      "id": "characters/蒙德-法尔伽",
+      "title": "法尔伽",
+      "sourceTitle": "蒙德-法尔伽",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-法尔伽.md"
+    },
+    {
+      "id": "characters/蒙德-凯亚",
+      "title": "凯亚",
+      "sourceTitle": "蒙德-凯亚",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-凯亚.md"
+    },
+    {
+      "id": "characters/蒙德-可莉",
+      "title": "可莉",
+      "sourceTitle": "蒙德-可莉",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-可莉.md"
+    },
+    {
+      "id": "characters/蒙德-雷泽",
+      "title": "雷泽",
+      "sourceTitle": "蒙德-雷泽",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-雷泽.md"
+    },
+    {
+      "id": "characters/蒙德-罗莎莉亚",
+      "title": "罗莎莉亚",
+      "sourceTitle": "蒙德-罗莎莉亚",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-罗莎莉亚.md"
+    },
+    {
+      "id": "characters/蒙德-洛恩",
+      "title": "洛恩",
+      "sourceTitle": "蒙德-洛恩",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-洛恩.md"
+    },
+    {
+      "id": "characters/蒙德-米卡",
+      "title": "米卡",
+      "sourceTitle": "蒙德-米卡",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-米卡.md"
+    },
+    {
+      "id": "characters/蒙德-莫娜",
+      "title": "莫娜",
+      "sourceTitle": "蒙德-莫娜",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-莫娜.md"
+    },
+    {
+      "id": "characters/蒙德-诺艾尔",
+      "title": "诺艾尔",
+      "sourceTitle": "蒙德-诺艾尔",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-诺艾尔.md"
+    },
+    {
+      "id": "characters/蒙德-琴",
+      "title": "琴",
+      "sourceTitle": "蒙德-琴",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-琴.md"
+    },
+    {
+      "id": "characters/蒙德-砂糖",
+      "title": "砂糖",
+      "sourceTitle": "蒙德-砂糖",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-砂糖.md"
+    },
+    {
+      "id": "characters/蒙德-塔利雅",
+      "title": "塔利雅",
+      "sourceTitle": "蒙德-塔利雅",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-塔利雅.md"
+    },
+    {
+      "id": "characters/蒙德-温迪",
+      "title": "温迪",
+      "sourceTitle": "蒙德-温迪",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-温迪.md"
+    },
+    {
+      "id": "characters/蒙德-优菈",
+      "title": "优菈",
+      "sourceTitle": "蒙德-优菈",
+      "category": "角色故事",
+      "region": "蒙德",
+      "path": "GI-Ebook/characters/蒙德-优菈.md"
+    },
+    {
+      "id": "characters/纳塔-基尼奇",
+      "title": "基尼奇",
+      "sourceTitle": "纳塔-基尼奇",
+      "category": "角色故事",
+      "region": "纳塔",
+      "path": "GI-Ebook/characters/纳塔-基尼奇.md"
+    },
+    {
+      "id": "characters/纳塔-卡齐娜",
+      "title": "卡齐娜",
+      "sourceTitle": "纳塔-卡齐娜",
+      "category": "角色故事",
+      "region": "纳塔",
+      "path": "GI-Ebook/characters/纳塔-卡齐娜.md"
+    },
+    {
+      "id": "characters/纳塔-玛拉妮",
+      "title": "玛拉妮",
+      "sourceTitle": "纳塔-玛拉妮",
+      "category": "角色故事",
+      "region": "纳塔",
+      "path": "GI-Ebook/characters/纳塔-玛拉妮.md"
+    },
+    {
+      "id": "characters/纳塔-玛薇卡",
+      "title": "玛薇卡",
+      "sourceTitle": "纳塔-玛薇卡",
+      "category": "角色故事",
+      "region": "纳塔",
+      "path": "GI-Ebook/characters/纳塔-玛薇卡.md"
+    },
+    {
+      "id": "characters/纳塔-欧洛伦",
+      "title": "欧洛伦",
+      "sourceTitle": "纳塔-欧洛伦",
+      "category": "角色故事",
+      "region": "纳塔",
+      "path": "GI-Ebook/characters/纳塔-欧洛伦.md"
+    },
+    {
+      "id": "characters/纳塔-恰斯卡",
+      "title": "恰斯卡",
+      "sourceTitle": "纳塔-恰斯卡",
+      "category": "角色故事",
+      "region": "纳塔",
+      "path": "GI-Ebook/characters/纳塔-恰斯卡.md"
+    },
+    {
+      "id": "characters/纳塔-茜特菈莉",
+      "title": "茜特菈莉",
+      "sourceTitle": "纳塔-茜特菈莉",
+      "category": "角色故事",
+      "region": "纳塔",
+      "path": "GI-Ebook/characters/纳塔-茜特菈莉.md"
+    },
+    {
+      "id": "characters/纳塔-瓦雷莎",
+      "title": "瓦雷莎",
+      "sourceTitle": "纳塔-瓦雷莎",
+      "category": "角色故事",
+      "region": "纳塔",
+      "path": "GI-Ebook/characters/纳塔-瓦雷莎.md"
+    },
+    {
+      "id": "characters/纳塔-希诺宁",
+      "title": "希诺宁",
+      "sourceTitle": "纳塔-希诺宁",
+      "category": "角色故事",
+      "region": "纳塔",
+      "path": "GI-Ebook/characters/纳塔-希诺宁.md"
+    },
+    {
+      "id": "characters/纳塔-伊安珊",
+      "title": "伊安珊",
+      "sourceTitle": "纳塔-伊安珊",
+      "category": "角色故事",
+      "region": "纳塔",
+      "path": "GI-Ebook/characters/纳塔-伊安珊.md"
+    },
+    {
+      "id": "characters/纳塔-伊法",
+      "title": "伊法",
+      "sourceTitle": "纳塔-伊法",
+      "category": "角色故事",
+      "region": "纳塔",
+      "path": "GI-Ebook/characters/纳塔-伊法.md"
+    },
+    {
+      "id": "characters/挪德卡莱-爱诺",
+      "title": "爱诺",
+      "sourceTitle": "挪德卡莱-爱诺",
+      "category": "角色故事",
+      "region": "挪德卡莱",
+      "path": "GI-Ebook/characters/挪德卡莱-爱诺.md"
+    },
+    {
+      "id": "characters/挪德卡莱-菲林斯",
+      "title": "菲林斯",
+      "sourceTitle": "挪德卡莱-菲林斯",
+      "category": "角色故事",
+      "region": "挪德卡莱",
+      "path": "GI-Ebook/characters/挪德卡莱-菲林斯.md"
+    },
+    {
+      "id": "characters/挪德卡莱-哥伦比娅",
+      "title": "哥伦比娅",
+      "sourceTitle": "挪德卡莱-哥伦比娅",
+      "category": "角色故事",
+      "region": "挪德卡莱",
+      "path": "GI-Ebook/characters/挪德卡莱-哥伦比娅.md"
+    },
+    {
+      "id": "characters/挪德卡莱-菈乌玛",
+      "title": "菈乌玛",
+      "sourceTitle": "挪德卡莱-菈乌玛",
+      "category": "角色故事",
+      "region": "挪德卡莱",
+      "path": "GI-Ebook/characters/挪德卡莱-菈乌玛.md"
+    },
+    {
+      "id": "characters/挪德卡莱-莉奈娅",
+      "title": "莉奈娅",
+      "sourceTitle": "挪德卡莱-莉奈娅",
+      "category": "角色故事",
+      "region": "挪德卡莱",
+      "path": "GI-Ebook/characters/挪德卡莱-莉奈娅.md"
+    },
+    {
+      "id": "characters/挪德卡莱-奈芙尔",
+      "title": "奈芙尔",
+      "sourceTitle": "挪德卡莱-奈芙尔",
+      "category": "角色故事",
+      "region": "挪德卡莱",
+      "path": "GI-Ebook/characters/挪德卡莱-奈芙尔.md"
+    },
+    {
+      "id": "characters/挪德卡莱-雅珂达",
+      "title": "雅珂达",
+      "sourceTitle": "挪德卡莱-雅珂达",
+      "category": "角色故事",
+      "region": "挪德卡莱",
+      "path": "GI-Ebook/characters/挪德卡莱-雅珂达.md"
+    },
+    {
+      "id": "characters/挪德卡莱-叶洛亚",
+      "title": "叶洛亚",
+      "sourceTitle": "挪德卡莱-叶洛亚",
+      "category": "角色故事",
+      "region": "挪德卡莱",
+      "path": "GI-Ebook/characters/挪德卡莱-叶洛亚.md"
+    },
+    {
+      "id": "characters/挪德卡莱-伊涅芙",
+      "title": "伊涅芙",
+      "sourceTitle": "挪德卡莱-伊涅芙",
+      "category": "角色故事",
+      "region": "挪德卡莱",
+      "path": "GI-Ebook/characters/挪德卡莱-伊涅芙.md"
+    },
+    {
+      "id": "characters/其他-埃洛伊",
+      "title": "埃洛伊",
+      "sourceTitle": "其他-埃洛伊",
+      "category": "角色故事",
+      "region": "其他",
+      "path": "GI-Ebook/characters/其他-埃洛伊.md"
+    },
+    {
+      "id": "characters/其他-旅行者",
+      "title": "旅行者",
+      "sourceTitle": "其他-旅行者",
+      "category": "角色故事",
+      "region": "其他",
+      "path": "GI-Ebook/characters/其他-旅行者.md"
+    },
+    {
+      "id": "characters/其他-尼可",
+      "title": "尼可",
+      "sourceTitle": "其他-尼可",
+      "category": "角色故事",
+      "region": "其他",
+      "path": "GI-Ebook/characters/其他-尼可.md"
+    },
+    {
+      "id": "characters/其他-丝柯克",
+      "title": "丝柯克",
+      "sourceTitle": "其他-丝柯克",
+      "category": "角色故事",
+      "region": "其他",
+      "path": "GI-Ebook/characters/其他-丝柯克.md"
+    },
+    {
+      "id": "characters/须弥-艾尔海森",
+      "title": "艾尔海森",
+      "sourceTitle": "须弥-艾尔海森",
+      "category": "角色故事",
+      "region": "须弥",
+      "path": "GI-Ebook/characters/须弥-艾尔海森.md"
+    },
+    {
+      "id": "characters/须弥-迪希雅",
+      "title": "迪希雅",
+      "sourceTitle": "须弥-迪希雅",
+      "category": "角色故事",
+      "region": "须弥",
+      "path": "GI-Ebook/characters/须弥-迪希雅.md"
+    },
+    {
+      "id": "characters/须弥-多莉",
+      "title": "多莉",
+      "sourceTitle": "须弥-多莉",
+      "category": "角色故事",
+      "region": "须弥",
+      "path": "GI-Ebook/characters/须弥-多莉.md"
+    },
+    {
+      "id": "characters/须弥-珐露珊",
+      "title": "珐露珊",
+      "sourceTitle": "须弥-珐露珊",
+      "category": "角色故事",
+      "region": "须弥",
+      "path": "GI-Ebook/characters/须弥-珐露珊.md"
+    },
+    {
+      "id": "characters/须弥-卡维",
+      "title": "卡维",
+      "sourceTitle": "须弥-卡维",
+      "category": "角色故事",
+      "region": "须弥",
+      "path": "GI-Ebook/characters/须弥-卡维.md"
+    },
+    {
+      "id": "characters/须弥-坎蒂丝",
+      "title": "坎蒂丝",
+      "sourceTitle": "须弥-坎蒂丝",
+      "category": "角色故事",
+      "region": "须弥",
+      "path": "GI-Ebook/characters/须弥-坎蒂丝.md"
+    },
+    {
+      "id": "characters/须弥-柯莱",
+      "title": "柯莱",
+      "sourceTitle": "须弥-柯莱",
+      "category": "角色故事",
+      "region": "须弥",
+      "path": "GI-Ebook/characters/须弥-柯莱.md"
+    },
+    {
+      "id": "characters/须弥-莱依拉",
+      "title": "莱依拉",
+      "sourceTitle": "须弥-莱依拉",
+      "category": "角色故事",
+      "region": "须弥",
+      "path": "GI-Ebook/characters/须弥-莱依拉.md"
+    },
+    {
+      "id": "characters/须弥-流浪者",
+      "title": "流浪者",
+      "sourceTitle": "须弥-流浪者",
+      "category": "角色故事",
+      "region": "须弥",
+      "path": "GI-Ebook/characters/须弥-流浪者.md"
+    },
+    {
+      "id": "characters/须弥-纳西妲",
+      "title": "纳西妲",
+      "sourceTitle": "须弥-纳西妲",
+      "category": "角色故事",
+      "region": "须弥",
+      "path": "GI-Ebook/characters/须弥-纳西妲.md"
+    },
+    {
+      "id": "characters/须弥-妮露",
+      "title": "妮露",
+      "sourceTitle": "须弥-妮露",
+      "category": "角色故事",
+      "region": "须弥",
+      "path": "GI-Ebook/characters/须弥-妮露.md"
+    },
+    {
+      "id": "characters/须弥-赛诺",
+      "title": "赛诺",
+      "sourceTitle": "须弥-赛诺",
+      "category": "角色故事",
+      "region": "须弥",
+      "path": "GI-Ebook/characters/须弥-赛诺.md"
+    },
+    {
+      "id": "characters/须弥-赛索斯",
+      "title": "赛索斯",
+      "sourceTitle": "须弥-赛索斯",
+      "category": "角色故事",
+      "region": "须弥",
+      "path": "GI-Ebook/characters/须弥-赛索斯.md"
+    },
+    {
+      "id": "characters/须弥-提纳里",
+      "title": "提纳里",
+      "sourceTitle": "须弥-提纳里",
+      "category": "角色故事",
+      "region": "须弥",
+      "path": "GI-Ebook/characters/须弥-提纳里.md"
+    },
+    {
+      "id": "characters/至冬-阿蕾奇诺",
+      "title": "阿蕾奇诺",
+      "sourceTitle": "至冬-阿蕾奇诺",
+      "category": "角色故事",
+      "region": "至冬",
+      "path": "GI-Ebook/characters/至冬-阿蕾奇诺.md"
+    },
+    {
+      "id": "characters/至冬-达达利亚",
+      "title": "达达利亚",
+      "sourceTitle": "至冬-达达利亚",
+      "category": "角色故事",
+      "region": "至冬",
+      "path": "GI-Ebook/characters/至冬-达达利亚.md"
+    },
+    {
+      "id": "artifacts/被怜爱的少女",
+      "title": "被怜爱的少女",
+      "sourceTitle": "被怜爱的少女",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/被怜爱的少女.md"
+    },
+    {
+      "id": "artifacts/冰风迷途的勇士",
+      "title": "冰风迷途的勇士",
+      "sourceTitle": "冰风迷途的勇士",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/冰风迷途的勇士.md"
+    },
+    {
+      "id": "artifacts/苍白之火",
+      "title": "苍白之火",
+      "sourceTitle": "苍白之火",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/苍白之火.md"
+    },
+    {
+      "id": "artifacts/沉沦之心",
+      "title": "沉沦之心",
+      "sourceTitle": "沉沦之心",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/沉沦之心.md"
+    },
+    {
+      "id": "artifacts/辰砂往生录",
+      "title": "辰砂往生录",
+      "sourceTitle": "辰砂往生录",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/辰砂往生录.md"
+    },
+    {
+      "id": "artifacts/晨星与月的晓歌",
+      "title": "晨星与月的晓歌",
+      "sourceTitle": "晨星与月的晓歌",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/晨星与月的晓歌.md"
+    },
+    {
+      "id": "artifacts/炽烈的炎之魔女",
+      "title": "炽烈的炎之魔女",
+      "sourceTitle": "炽烈的炎之魔女",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/炽烈的炎之魔女.md"
+    },
+    {
+      "id": "artifacts/翠绿之影",
+      "title": "翠绿之影",
+      "sourceTitle": "翠绿之影",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/翠绿之影.md"
+    },
+    {
+      "id": "artifacts/赌徒",
+      "title": "赌徒",
+      "sourceTitle": "赌徒",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/赌徒.md"
+    },
+    {
+      "id": "artifacts/渡过烈火的贤人",
+      "title": "渡过烈火的贤人",
+      "sourceTitle": "渡过烈火的贤人",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/渡过烈火的贤人.md"
+    },
+    {
+      "id": "artifacts/纺月的夜歌",
+      "title": "纺月的夜歌",
+      "sourceTitle": "纺月的夜歌",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/纺月的夜歌.md"
+    },
+    {
+      "id": "artifacts/风起之日",
+      "title": "风起之日",
+      "sourceTitle": "风起之日",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/风起之日.md"
+    },
+    {
+      "id": "artifacts/海染砗磲",
+      "title": "海染砗磲",
+      "sourceTitle": "海染砗磲",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/海染砗磲.md"
+    },
+    {
+      "id": "artifacts/黑曜秘典",
+      "title": "黑曜秘典",
+      "sourceTitle": "黑曜秘典",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/黑曜秘典.md"
+    },
+    {
+      "id": "artifacts/花海甘露之光",
+      "title": "花海甘露之光",
+      "sourceTitle": "花海甘露之光",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/花海甘露之光.md"
+    },
+    {
+      "id": "artifacts/华馆梦醒形骸记",
+      "title": "华馆梦醒形骸记",
+      "sourceTitle": "华馆梦醒形骸记",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/华馆梦醒形骸记.md"
+    },
+    {
+      "id": "artifacts/黄金剧团",
+      "title": "黄金剧团",
+      "sourceTitle": "黄金剧团",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/黄金剧团.md"
+    },
+    {
+      "id": "artifacts/回声之林夜话",
+      "title": "回声之林夜话",
+      "sourceTitle": "回声之林夜话",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/回声之林夜话.md"
+    },
+    {
+      "id": "artifacts/祭冰之人",
+      "title": "祭冰之人",
+      "sourceTitle": "祭冰之人",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/祭冰之人.md"
+    },
+    {
+      "id": "artifacts/祭火之人",
+      "title": "祭火之人",
+      "sourceTitle": "祭火之人",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/祭火之人.md"
+    },
+    {
+      "id": "artifacts/祭雷之人",
+      "title": "祭雷之人",
+      "sourceTitle": "祭雷之人",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/祭雷之人.md"
+    },
+    {
+      "id": "artifacts/祭水之人",
+      "title": "祭水之人",
+      "sourceTitle": "祭水之人",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/祭水之人.md"
+    },
+    {
+      "id": "artifacts/角斗士的终幕礼",
+      "title": "角斗士的终幕礼",
+      "sourceTitle": "角斗士的终幕礼",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/角斗士的终幕礼.md"
+    },
+    {
+      "id": "artifacts/教官",
+      "title": "教官",
+      "sourceTitle": "教官",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/教官.md"
+    },
+    {
+      "id": "artifacts/烬城勇者绘卷",
+      "title": "烬城勇者绘卷",
+      "sourceTitle": "烬城勇者绘卷",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/烬城勇者绘卷.md"
+    },
+    {
+      "id": "artifacts/绝缘之旗印",
+      "title": "绝缘之旗印",
+      "sourceTitle": "绝缘之旗印",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/绝缘之旗印.md"
+    },
+    {
+      "id": "artifacts/来歆余响",
+      "title": "来歆余响",
+      "sourceTitle": "来歆余响",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/来歆余响.md"
+    },
+    {
+      "id": "artifacts/乐园遗落之花",
+      "title": "乐园遗落之花",
+      "sourceTitle": "乐园遗落之花",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/乐园遗落之花.md"
+    },
+    {
+      "id": "artifacts/流放者",
+      "title": "流放者",
+      "sourceTitle": "流放者",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/流放者.md"
+    },
+    {
+      "id": "artifacts/流浪大地的乐团",
+      "title": "流浪大地的乐团",
+      "sourceTitle": "流浪大地的乐团",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/流浪大地的乐团.md"
+    },
+    {
+      "id": "artifacts/冒险家",
+      "title": "冒险家",
+      "sourceTitle": "冒险家",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/冒险家.md"
+    },
+    {
+      "id": "artifacts/逆飞的流星",
+      "title": "逆飞的流星",
+      "sourceTitle": "逆飞的流星",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/逆飞的流星.md"
+    },
+    {
+      "id": "artifacts/平息鸣雷的尊者",
+      "title": "平息鸣雷的尊者",
+      "sourceTitle": "平息鸣雷的尊者",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/平息鸣雷的尊者.md"
+    },
+    {
+      "id": "artifacts/奇迹",
+      "title": "奇迹",
+      "sourceTitle": "奇迹",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/奇迹.md"
+    },
+    {
+      "id": "artifacts/千岩牢固",
+      "title": "千岩牢固",
+      "sourceTitle": "千岩牢固",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/千岩牢固.md"
+    },
+    {
+      "id": "artifacts/穹境示现之夜",
+      "title": "穹境示现之夜",
+      "sourceTitle": "穹境示现之夜",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/穹境示现之夜.md"
+    },
+    {
+      "id": "artifacts/染血的骑士道",
+      "title": "染血的骑士道",
+      "sourceTitle": "染血的骑士道",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/染血的骑士道.md"
+    },
+    {
+      "id": "artifacts/如雷的盛怒",
+      "title": "如雷的盛怒",
+      "sourceTitle": "如雷的盛怒",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/如雷的盛怒.md"
+    },
+    {
+      "id": "artifacts/沙上楼阁史话",
+      "title": "沙上楼阁史话",
+      "sourceTitle": "沙上楼阁史话",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/沙上楼阁史话.md"
+    },
+    {
+      "id": "artifacts/深廊终曲",
+      "title": "深廊终曲",
+      "sourceTitle": "深廊终曲",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/深廊终曲.md"
+    },
+    {
+      "id": "artifacts/深林的记忆",
+      "title": "深林的记忆",
+      "sourceTitle": "深林的记忆",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/深林的记忆.md"
+    },
+    {
+      "id": "artifacts/饰金之梦",
+      "title": "饰金之梦",
+      "sourceTitle": "饰金之梦",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/饰金之梦.md"
+    },
+    {
+      "id": "artifacts/守护之心",
+      "title": "守护之心",
+      "sourceTitle": "守护之心",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/守护之心.md"
+    },
+    {
+      "id": "artifacts/水仙之梦",
+      "title": "水仙之梦",
+      "sourceTitle": "水仙之梦",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/水仙之梦.md"
+    },
+    {
+      "id": "artifacts/天之美赐",
+      "title": "天之美赐",
+      "sourceTitle": "天之美赐",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/天之美赐.md"
+    },
+    {
+      "id": "artifacts/未竟的遐思",
+      "title": "未竟的遐思",
+      "sourceTitle": "未竟的遐思",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/未竟的遐思.md"
+    },
+    {
+      "id": "artifacts/武人",
+      "title": "武人",
+      "sourceTitle": "武人",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/武人.md"
+    },
+    {
+      "id": "artifacts/昔日宗室之仪",
+      "title": "昔日宗室之仪",
+      "sourceTitle": "昔日宗室之仪",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/昔日宗室之仪.md"
+    },
+    {
+      "id": "artifacts/昔时之歌",
+      "title": "昔时之歌",
+      "sourceTitle": "昔时之歌",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/昔时之歌.md"
+    },
+    {
+      "id": "artifacts/谐律异想断章",
+      "title": "谐律异想断章",
+      "sourceTitle": "谐律异想断章",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/谐律异想断章.md"
+    },
+    {
+      "id": "artifacts/行者之心",
+      "title": "行者之心",
+      "sourceTitle": "行者之心",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/行者之心.md"
+    },
+    {
+      "id": "artifacts/幸运儿",
+      "title": "幸运儿",
+      "sourceTitle": "幸运儿",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/幸运儿.md"
+    },
+    {
+      "id": "artifacts/学士",
+      "title": "学士",
+      "sourceTitle": "学士",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/学士.md"
+    },
+    {
+      "id": "artifacts/影中沉凝的幻灭",
+      "title": "影中沉凝的幻灭",
+      "sourceTitle": "影中沉凝的幻灭",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/影中沉凝的幻灭.md"
+    },
+    {
+      "id": "artifacts/勇士之心",
+      "title": "勇士之心",
+      "sourceTitle": "勇士之心",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/勇士之心.md"
+    },
+    {
+      "id": "artifacts/悠古的磐岩",
+      "title": "悠古的磐岩",
+      "sourceTitle": "悠古的磐岩",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/悠古的磐岩.md"
+    },
+    {
+      "id": "artifacts/游医",
+      "title": "游医",
+      "sourceTitle": "游医",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/游医.md"
+    },
+    {
+      "id": "artifacts/战狂",
+      "title": "战狂",
+      "sourceTitle": "战狂",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/战狂.md"
+    },
+    {
+      "id": "artifacts/长夜之誓",
+      "title": "长夜之誓",
+      "sourceTitle": "长夜之誓",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/长夜之誓.md"
+    },
+    {
+      "id": "artifacts/逐影猎人",
+      "title": "逐影猎人",
+      "sourceTitle": "逐影猎人",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/逐影猎人.md"
+    },
+    {
+      "id": "artifacts/追忆之注连",
+      "title": "追忆之注连",
+      "sourceTitle": "追忆之注连",
+      "category": "圣遗物",
+      "region": "",
+      "path": "GI-Ebook/artifacts/追忆之注连.md"
+    },
+    {
+      "id": "books/《欢迎来到那夏镇！》",
+      "title": "《欢迎来到那夏镇！》",
+      "sourceTitle": "《欢迎来到那夏镇！》",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/《欢迎来到那夏镇！》.md"
+    },
+    {
+      "id": "books/《交涉的艺术》",
+      "title": "《交涉的艺术》",
+      "sourceTitle": "《交涉的艺术》",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/《交涉的艺术》.md"
+    },
+    {
+      "id": "books/《旧都梦夜奇谭》",
+      "title": "《旧都梦夜奇谭》",
+      "sourceTitle": "《旧都梦夜奇谭》",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/《旧都梦夜奇谭》.md"
+    },
+    {
+      "id": "books/《无生忍》台本",
+      "title": "《无生忍》台本",
+      "sourceTitle": "《无生忍》台本",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/《无生忍》台本.md"
+    },
+    {
+      "id": "books/《异邦人喧哗旅：吹向金发武士的死亡之风》台本",
+      "title": "《异邦人喧哗旅：吹向金发武士的死亡之风》台本",
+      "sourceTitle": "《异邦人喧哗旅：吹向金发武士的死亡之风》台本",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/《异邦人喧哗旅：吹向金发武士的死亡之风》台本.md"
+    },
+    {
+      "id": "books/《勇敢的特奎》",
+      "title": "《勇敢的特奎》",
+      "sourceTitle": "《勇敢的特奎》",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/《勇敢的特奎》.md"
+    },
+    {
+      "id": "books/《召唤王》",
+      "title": "《召唤王》",
+      "sourceTitle": "《召唤王》",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/《召唤王》.md"
+    },
+    {
+      "id": "books/《至强融合·控碟乐师重混甄选》",
+      "title": "《至强融合·控碟乐师重混甄选》",
+      "sourceTitle": "《至强融合·控碟乐师重混甄选》",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/《至强融合·控碟乐师重混甄选》.md"
+    },
+    {
+      "id": "books/《逐影猎人：审判之时》角色纪念册",
+      "title": "《逐影猎人：审判之时》角色纪念册",
+      "sourceTitle": "《逐影猎人：审判之时》角色纪念册",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/《逐影猎人：审判之时》角色纪念册.md"
+    },
+    {
+      "id": "books/《转生成为鬼兜虫然后撞翻世界》",
+      "title": "《转生成为鬼兜虫然后撞翻世界》",
+      "sourceTitle": "《转生成为鬼兜虫然后撞翻世界》",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/《转生成为鬼兜虫然后撞翻世界》.md"
+    },
+    {
+      "id": "books/「砥砺之证」",
+      "title": "「砥砺之证」",
+      "sourceTitle": "「砥砺之证」",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/「砥砺之证」.md"
+    },
+    {
+      "id": "books/「东王」史辩",
+      "title": "「东王」史辩",
+      "sourceTitle": "「东王」史辩",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/「东王」史辩.md"
+    },
+    {
+      "id": "books/「木偶」的笔记本",
+      "title": "「木偶」的笔记本",
+      "sourceTitle": "「木偶」的笔记本",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/「木偶」的笔记本.md"
+    },
+    {
+      "id": "books/「炫彩呆子」的涂鸦手记",
+      "title": "「炫彩呆子」的涂鸦手记",
+      "sourceTitle": "「炫彩呆子」的涂鸦手记",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/「炫彩呆子」的涂鸦手记.md"
+    },
+    {
+      "id": "books/阿赫玛尔的故事",
+      "title": "阿赫玛尔的故事",
+      "sourceTitle": "阿赫玛尔的故事",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/阿赫玛尔的故事.md"
+    },
+    {
+      "id": "books/阿如的倒影的记录",
+      "title": "阿如的倒影的记录",
+      "sourceTitle": "阿如的倒影的记录",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/阿如的倒影的记录.md"
+    },
+    {
+      "id": "books/白夜国馆藏",
+      "title": "白夜国馆藏",
+      "sourceTitle": "白夜国馆藏",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/白夜国馆藏.md"
+    },
+    {
+      "id": "books/白之公主与六侏儒",
+      "title": "白之公主与六侏儒",
+      "sourceTitle": "白之公主与六侏儒",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/白之公主与六侏儒.md"
+    },
+    {
+      "id": "books/拜托了我的狐仙宫司",
+      "title": "拜托了我的狐仙宫司",
+      "sourceTitle": "拜托了我的狐仙宫司",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/拜托了我的狐仙宫司.md"
+    },
+    {
+      "id": "books/饱饮之陵的记录",
+      "title": "饱饮之陵的记录",
+      "sourceTitle": "饱饮之陵的记录",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/饱饮之陵的记录.md"
+    },
+    {
+      "id": "books/北境秘史",
+      "title": "北境秘史",
+      "sourceTitle": "北境秘史",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/北境秘史.md"
+    },
+    {
+      "id": "books/边乡夜语",
+      "title": "边乡夜语",
+      "sourceTitle": "边乡夜语",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/边乡夜语.md"
+    },
+    {
+      "id": "books/变成骡子的人",
+      "title": "变成骡子的人",
+      "sourceTitle": "变成骡子的人",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/变成骡子的人.md"
+    },
+    {
+      "id": "books/不知来历的纸条",
+      "title": "不知来历的纸条",
+      "sourceTitle": "不知来历的纸条",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/不知来历的纸条.md"
+    },
+    {
+      "id": "books/残破的信笺",
+      "title": "残破的信笺",
+      "sourceTitle": "残破的信笺",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/残破的信笺.md"
+    },
+    {
+      "id": "books/残破的纸片",
+      "title": "残破的纸片",
+      "sourceTitle": "残破的纸片",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/残破的纸片.md"
+    },
+    {
+      "id": "books/苍星妖灵史略",
+      "title": "苍星妖灵史略",
+      "sourceTitle": "苍星妖灵史略",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/苍星妖灵史略.md"
+    },
+    {
+      "id": "books/沉秋拾剑录",
+      "title": "沉秋拾剑录",
+      "sourceTitle": "沉秋拾剑录",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/沉秋拾剑录.md"
+    },
+    {
+      "id": "books/沉玉谷风光指南",
+      "title": "沉玉谷风光指南",
+      "sourceTitle": "沉玉谷风光指南",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/沉玉谷风光指南.md"
+    },
+    {
+      "id": "books/出发吧！嘟嘟可",
+      "title": "出发吧！嘟嘟可",
+      "sourceTitle": "出发吧！嘟嘟可",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/出发吧！嘟嘟可.md"
+    },
+    {
+      "id": "books/存疑的丘丘人语单句",
+      "title": "存疑的丘丘人语单句",
+      "sourceTitle": "存疑的丘丘人语单句",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/存疑的丘丘人语单句.md"
+    },
+    {
+      "id": "books/大盗雷德·米勒传奇",
+      "title": "大盗雷德·米勒传奇",
+      "sourceTitle": "大盗雷德·米勒传奇",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/大盗雷德·米勒传奇.md"
+    },
+    {
+      "id": "books/稻妻秘见录",
+      "title": "稻妻秘见录",
+      "sourceTitle": "稻妻秘见录",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/稻妻秘见录.md"
+    },
+    {
+      "id": "books/稻叶藤三郎久藏_绝笔",
+      "title": "稻叶藤三郎久藏_绝笔",
+      "sourceTitle": "稻叶藤三郎久藏_绝笔",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/稻叶藤三郎久藏_绝笔.md"
+    },
+    {
+      "id": "books/帝君尘游记",
+      "title": "帝君尘游记",
+      "sourceTitle": "帝君尘游记",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/帝君尘游记.md"
+    },
+    {
+      "id": "books/调查报告",
+      "title": "调查报告",
+      "sourceTitle": "调查报告",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/调查报告.md"
+    },
+    {
+      "id": "books/嘟嘟可轰轰奇遇记",
+      "title": "嘟嘟可轰轰奇遇记",
+      "sourceTitle": "嘟嘟可轰轰奇遇记",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/嘟嘟可轰轰奇遇记.md"
+    },
+    {
+      "id": "books/飞行指南",
+      "title": "飞行指南",
+      "sourceTitle": "飞行指南",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/飞行指南.md"
+    },
+    {
+      "id": "books/菲谢尔皇女夜谭",
+      "title": "菲谢尔皇女夜谭",
+      "sourceTitle": "菲谢尔皇女夜谭",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/菲谢尔皇女夜谭.md"
+    },
+    {
+      "id": "books/枫丹动物寓言集",
+      "title": "枫丹动物寓言集",
+      "sourceTitle": "枫丹动物寓言集",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/枫丹动物寓言集.md"
+    },
+    {
+      "id": "books/枫原义庆的信",
+      "title": "枫原义庆的信",
+      "sourceTitle": "枫原义庆的信",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/枫原义庆的信.md"
+    },
+    {
+      "id": "books/浮浪记",
+      "title": "浮浪记",
+      "sourceTitle": "浮浪记",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/浮浪记.md"
+    },
+    {
+      "id": "books/浮槃歌卷",
+      "title": "浮槃歌卷",
+      "sourceTitle": "浮槃歌卷",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/浮槃歌卷.md"
+    },
+    {
+      "id": "books/负罪求赎者所遗",
+      "title": "负罪求赎者所遗",
+      "sourceTitle": "负罪求赎者所遗",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/负罪求赎者所遗.md"
+    },
+    {
+      "id": "books/古恩希尔德小传",
+      "title": "古恩希尔德小传",
+      "sourceTitle": "古恩希尔德小传",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/古恩希尔德小传.md"
+    },
+    {
+      "id": "books/古老的考察日志",
+      "title": "古老的考察日志",
+      "sourceTitle": "古老的考察日志",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/古老的考察日志.md"
+    },
+    {
+      "id": "books/怪盗与名侦探：虹彩胸针之谜",
+      "title": "怪盗与名侦探：虹彩胸针之谜",
+      "sourceTitle": "怪盗与名侦探：虹彩胸针之谜",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/怪盗与名侦探：虹彩胸针之谜.md"
+    },
+    {
+      "id": "books/鬼武道",
+      "title": "鬼武道",
+      "sourceTitle": "鬼武道",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/鬼武道.md"
+    },
+    {
+      "id": "books/哈玛瓦兰战记",
+      "title": "哈玛瓦兰战记",
+      "sourceTitle": "哈玛瓦兰战记",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/哈玛瓦兰战记.md"
+    },
+    {
+      "id": "books/哈南帕查记事",
+      "title": "哈南帕查记事",
+      "sourceTitle": "哈南帕查记事",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/哈南帕查记事.md"
+    },
+    {
+      "id": "books/海螺笔记本",
+      "title": "海螺笔记本",
+      "sourceTitle": "海螺笔记本",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/海螺笔记本.md"
+    },
+    {
+      "id": "books/海螺的回响",
+      "title": "海螺的回响",
+      "sourceTitle": "海螺的回响",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/海螺的回响.md"
+    },
+    {
+      "id": "books/护法仙众夜叉录",
+      "title": "护法仙众夜叉录",
+      "sourceTitle": "护法仙众夜叉录",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/护法仙众夜叉录.md"
+    },
+    {
+      "id": "books/鹮巷物语",
+      "title": "鹮巷物语",
+      "sourceTitle": "鹮巷物语",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/鹮巷物语.md"
+    },
+    {
+      "id": "books/荒泷盛世豪鼓大祭典！",
+      "title": "荒泷盛世豪鼓大祭典！",
+      "sourceTitle": "荒泷盛世豪鼓大祭典！",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/荒泷盛世豪鼓大祭典！.md"
+    },
+    {
+      "id": "books/荒山孤剑录",
+      "title": "荒山孤剑录",
+      "sourceTitle": "荒山孤剑录",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/荒山孤剑录.md"
+    },
+    {
+      "id": "books/火山大王与缝影针",
+      "title": "火山大王与缝影针",
+      "sourceTitle": "火山大王与缝影针",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/火山大王与缝影针.md"
+    },
+    {
+      "id": "books/玑衡经",
+      "title": "玑衡经",
+      "sourceTitle": "玑衡经",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/玑衡经.md"
+    },
+    {
+      "id": "books/狡诈的康波雷",
+      "title": "狡诈的康波雷",
+      "sourceTitle": "狡诈的康波雷",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/狡诈的康波雷.md"
+    },
+    {
+      "id": "books/绝云记闻",
+      "title": "绝云记闻",
+      "sourceTitle": "绝云记闻",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/绝云记闻.md"
+    },
+    {
+      "id": "books/开封的信笺",
+      "title": "开封的信笺",
+      "sourceTitle": "开封的信笺",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/开封的信笺.md"
+    },
+    {
+      "id": "books/奎伊露和乌库库的故事",
+      "title": "奎伊露和乌库库的故事",
+      "sourceTitle": "奎伊露和乌库库的故事",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/奎伊露和乌库库的故事.md"
+    },
+    {
+      "id": "books/昆图尔的故事",
+      "title": "昆图尔的故事",
+      "sourceTitle": "昆图尔的故事",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/昆图尔的故事.md"
+    },
+    {
+      "id": "books/兰吉努伊之底",
+      "title": "兰吉努伊之底",
+      "sourceTitle": "兰吉努伊之底",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/兰吉努伊之底.md"
+    },
+    {
+      "id": "books/雷德·米勒留下的信物",
+      "title": "雷德·米勒留下的信物",
+      "sourceTitle": "雷德·米勒留下的信物",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/雷德·米勒留下的信物.md"
+    },
+    {
+      "id": "books/雷穆利亚衰亡史",
+      "title": "雷穆利亚衰亡史",
+      "sourceTitle": "雷穆利亚衰亡史",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/雷穆利亚衰亡史.md"
+    },
+    {
+      "id": "books/雷内的调查笔记",
+      "title": "雷内的调查笔记",
+      "sourceTitle": "雷内的调查笔记",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/雷内的调查笔记.md"
+    },
+    {
+      "id": "books/璃月风土志",
+      "title": "璃月风土志",
+      "sourceTitle": "璃月风土志",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/璃月风土志.md"
+    },
+    {
+      "id": "books/连心珠",
+      "title": "连心珠",
+      "sourceTitle": "连心珠",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/连心珠.md"
+    },
+    {
+      "id": "books/两个铳枪手",
+      "title": "两个铳枪手",
+      "sourceTitle": "两个铳枪手",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/两个铳枪手.md"
+    },
+    {
+      "id": "books/列王与宗室史",
+      "title": "列王与宗室史",
+      "sourceTitle": "列王与宗室史",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/列王与宗室史.md"
+    },
+    {
+      "id": "books/林藏的信",
+      "title": "林藏的信",
+      "sourceTitle": "林藏的信",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/林藏的信.md"
+    },
+    {
+      "id": "books/林间风",
+      "title": "林间风",
+      "sourceTitle": "林间风",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/林间风.md"
+    },
+    {
+      "id": "books/霖铃精选诗集",
+      "title": "霖铃精选诗集",
+      "sourceTitle": "霖铃精选诗集",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/霖铃精选诗集.md"
+    },
+    {
+      "id": "books/灵光颂",
+      "title": "灵光颂",
+      "sourceTitle": "灵光颂",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/灵光颂.md"
+    },
+    {
+      "id": "books/灵濛山夜话",
+      "title": "灵濛山夜话",
+      "sourceTitle": "灵濛山夜话",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/灵濛山夜话.md"
+    },
+    {
+      "id": "books/柳达希卡的信",
+      "title": "柳达希卡的信",
+      "sourceTitle": "柳达希卡的信",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/柳达希卡的信.md"
+    },
+    {
+      "id": "books/旅时者",
+      "title": "旅时者",
+      "sourceTitle": "旅时者",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/旅时者.md"
+    },
+    {
+      "id": "books/玛阿威与幻写灵",
+      "title": "玛阿威与幻写灵",
+      "sourceTitle": "玛阿威与幻写灵",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/玛阿威与幻写灵.md"
+    },
+    {
+      "id": "books/猫咪事务所",
+      "title": "猫咪事务所",
+      "sourceTitle": "猫咪事务所",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/猫咪事务所.md"
+    },
+    {
+      "id": "books/冒险家罗尔德的日志",
+      "title": "冒险家罗尔德的日志",
+      "sourceTitle": "冒险家罗尔德的日志",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/冒险家罗尔德的日志.md"
+    },
+    {
+      "id": "books/蒙德高塔",
+      "title": "蒙德高塔",
+      "sourceTitle": "蒙德高塔",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/蒙德高塔.md"
+    },
+    {
+      "id": "books/名为「杜林」的故事",
+      "title": "名为「杜林」的故事",
+      "sourceTitle": "名为「杜林」的故事",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/名为「杜林」的故事.md"
+    },
+    {
+      "id": "books/牧童与魔瓶的故事",
+      "title": "牧童与魔瓶的故事",
+      "sourceTitle": "牧童与魔瓶的故事",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/牧童与魔瓶的故事.md"
+    },
+    {
+      "id": "books/暮夜剧团团长的手稿",
+      "title": "暮夜剧团团长的手稿",
+      "sourceTitle": "暮夜剧团团长的手稿",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/暮夜剧团团长的手稿.md"
+    },
+    {
+      "id": "books/女神的手稿",
+      "title": "女神的手稿",
+      "sourceTitle": "女神的手稿",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/女神的手稿.md"
+    },
+    {
+      "id": "books/裴伦埃里",
+      "title": "裴伦埃里",
+      "sourceTitle": "裴伦埃里",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/裴伦埃里.md"
+    },
+    {
+      "id": "books/破烂的纸条",
+      "title": "破烂的纸条",
+      "sourceTitle": "破烂的纸条",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/破烂的纸条.md"
+    },
+    {
+      "id": "books/蒲公英海的狐狸",
+      "title": "蒲公英海的狐狸",
+      "sourceTitle": "蒲公英海的狐狸",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/蒲公英海的狐狸.md"
+    },
+    {
+      "id": "books/骑士团指导手册·第五版",
+      "title": "骑士团指导手册·第五版",
+      "sourceTitle": "骑士团指导手册·第五版",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/骑士团指导手册·第五版.md"
+    },
+    {
+      "id": "books/千年孤独",
+      "title": "千年孤独",
+      "sourceTitle": "千年孤独",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/千年孤独.md"
+    },
+    {
+      "id": "books/千奇澴回的见证物",
+      "title": "千奇澴回的见证物",
+      "sourceTitle": "千奇澴回的见证物",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/千奇澴回的见证物.md"
+    },
+    {
+      "id": "books/千夜故事集",
+      "title": "千夜故事集",
+      "sourceTitle": "千夜故事集",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/千夜故事集.md"
+    },
+    {
+      "id": "books/清泉之心",
+      "title": "清泉之心",
+      "sourceTitle": "清泉之心",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/清泉之心.md"
+    },
+    {
+      "id": "books/丘丘人诗歌选",
+      "title": "丘丘人诗歌选",
+      "sourceTitle": "丘丘人诗歌选",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/丘丘人诗歌选.md"
+    },
+    {
+      "id": "books/丘丘人习俗考察",
+      "title": "丘丘人习俗考察",
+      "sourceTitle": "丘丘人习俗考察",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/丘丘人习俗考察.md"
+    },
+    {
+      "id": "books/丘丘语诗歌试作",
+      "title": "丘丘语诗歌试作",
+      "sourceTitle": "丘丘语诗歌试作",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/丘丘语诗歌试作.md"
+    },
+    {
+      "id": "books/丘丘语速查手册",
+      "title": "丘丘语速查手册",
+      "sourceTitle": "丘丘语速查手册",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/丘丘语速查手册.md"
+    },
+    {
+      "id": "books/秋暮之火",
+      "title": "秋暮之火",
+      "sourceTitle": "秋暮之火",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/秋暮之火.md"
+    },
+    {
+      "id": "books/犬又二分之一",
+      "title": "犬又二分之一",
+      "sourceTitle": "犬又二分之一",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/犬又二分之一.md"
+    },
+    {
+      "id": "books/山与海之书",
+      "title": "山与海之书",
+      "sourceTitle": "山与海之书",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/山与海之书.md"
+    },
+    {
+      "id": "books/珊瑚宫记",
+      "title": "珊瑚宫记",
+      "sourceTitle": "珊瑚宫记",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/珊瑚宫记.md"
+    },
+    {
+      "id": "books/珊瑚宫民间信仰初勘",
+      "title": "珊瑚宫民间信仰初勘",
+      "sourceTitle": "珊瑚宫民间信仰初勘",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/珊瑚宫民间信仰初勘.md"
+    },
+    {
+      "id": "books/少女薇拉的忧郁",
+      "title": "少女薇拉的忧郁",
+      "sourceTitle": "少女薇拉的忧郁",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/少女薇拉的忧郁.md"
+    },
+    {
+      "id": "books/谁人的残破笔记",
+      "title": "谁人的残破笔记",
+      "sourceTitle": "谁人的残破笔记",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/谁人的残破笔记.md"
+    },
+    {
+      "id": "books/谁人的日志",
+      "title": "谁人的日志",
+      "sourceTitle": "谁人的日志",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/谁人的日志.md"
+    },
+    {
+      "id": "books/神秘摩拉状怀表",
+      "title": "神秘摩拉状怀表",
+      "sourceTitle": "神秘摩拉状怀表",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/神秘摩拉状怀表.md"
+    },
+    {
+      "id": "books/神霄折戟录",
+      "title": "神霄折戟录",
+      "sourceTitle": "神霄折戟录",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/神霄折戟录.md"
+    },
+    {
+      "id": "books/神樱大祓要略",
+      "title": "神樱大祓要略",
+      "sourceTitle": "神樱大祓要略",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/神樱大祓要略.md"
+    },
+    {
+      "id": "books/石书辑录",
+      "title": "石书辑录",
+      "sourceTitle": "石书辑录",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/石书辑录.md"
+    },
+    {
+      "id": "books/石书辑录·卷一",
+      "title": "石书辑录·卷一",
+      "sourceTitle": "石书辑录·卷一",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/石书辑录·卷一.md"
+    },
+    {
+      "id": "books/石素人",
+      "title": "石素人",
+      "sourceTitle": "石素人",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/石素人.md"
+    },
+    {
+      "id": "books/侍从骑士之歌",
+      "title": "侍从骑士之歌",
+      "sourceTitle": "侍从骑士之歌",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/侍从骑士之歌.md"
+    },
+    {
+      "id": "books/朔风集",
+      "title": "朔风集",
+      "sourceTitle": "朔风集",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/朔风集.md"
+    },
+    {
+      "id": "books/松伽塔的初阵",
+      "title": "松伽塔的初阵",
+      "sourceTitle": "松伽塔的初阵",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/松伽塔的初阵.md"
+    },
+    {
+      "id": "books/碎梦奇珍",
+      "title": "碎梦奇珍",
+      "sourceTitle": "碎梦奇珍",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/碎梦奇珍.md"
+    },
+    {
+      "id": "books/索赫尔的考古笔记",
+      "title": "索赫尔的考古笔记",
+      "sourceTitle": "索赫尔的考古笔记",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/索赫尔的考古笔记.md"
+    },
+    {
+      "id": "books/特帕尔的残缺手记",
+      "title": "特帕尔的残缺手记",
+      "sourceTitle": "特帕尔的残缺手记",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/特帕尔的残缺手记.md"
+    },
+    {
+      "id": "books/提瓦特野外救急食谱",
+      "title": "提瓦特野外救急食谱",
+      "sourceTitle": "提瓦特野外救急食谱",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/提瓦特野外救急食谱.md"
+    },
+    {
+      "id": "books/提瓦特游览指南",
+      "title": "提瓦特游览指南",
+      "sourceTitle": "提瓦特游览指南",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/提瓦特游览指南.md"
+    },
+    {
+      "id": "books/天衡绝倒集",
+      "title": "天衡绝倒集",
+      "sourceTitle": "天衡绝倒集",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/天衡绝倒集.md"
+    },
+    {
+      "id": "books/透明遗迹的记录",
+      "title": "透明遗迹的记录",
+      "sourceTitle": "透明遗迹的记录",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/透明遗迹的记录.md"
+    },
+    {
+      "id": "books/褪色古堡的崩塌",
+      "title": "褪色古堡的崩塌",
+      "sourceTitle": "褪色古堡的崩塌",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/褪色古堡的崩塌.md"
+    },
+    {
+      "id": "books/吞羊岩的记录",
+      "title": "吞羊岩的记录",
+      "sourceTitle": "吞羊岩的记录",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/吞羊岩的记录.md"
+    },
+    {
+      "id": "books/亡国的美奈姬",
+      "title": "亡国的美奈姬",
+      "sourceTitle": "亡国的美奈姬",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/亡国的美奈姬.md"
+    },
+    {
+      "id": "books/温妮莎传奇",
+      "title": "温妮莎传奇",
+      "sourceTitle": "温妮莎传奇",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/温妮莎传奇.md"
+    },
+    {
+      "id": "books/巫女曚云小传",
+      "title": "巫女曚云小传",
+      "sourceTitle": "巫女曚云小传",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/巫女曚云小传.md"
+    },
+    {
+      "id": "books/无头的科奎塔奥",
+      "title": "无头的科奎塔奥",
+      "sourceTitle": "无头的科奎塔奥",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/无头的科奎塔奥.md"
+    },
+    {
+      "id": "books/五歌仙容彩",
+      "title": "五歌仙容彩",
+      "sourceTitle": "五歌仙容彩",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/五歌仙容彩.md"
+    },
+    {
+      "id": "books/五歌仙资料汇总",
+      "title": "五歌仙资料汇总",
+      "sourceTitle": "五歌仙资料汇总",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/五歌仙资料汇总.md"
+    },
+    {
+      "id": "books/希鲁伊与希琳的故事",
+      "title": "希鲁伊与希琳的故事",
+      "sourceTitle": "希鲁伊与希琳的故事",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/希鲁伊与希琳的故事.md"
+    },
+    {
+      "id": "books/侠客记",
+      "title": "侠客记",
+      "sourceTitle": "侠客记",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/侠客记.md"
+    },
+    {
+      "id": "books/遐叶论经",
+      "title": "遐叶论经",
+      "sourceTitle": "遐叶论经",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/遐叶论经.md"
+    },
+    {
+      "id": "books/小魔女与不熄灭的火",
+      "title": "小魔女与不熄灭的火",
+      "sourceTitle": "小魔女与不熄灭的火",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/小魔女与不熄灭的火.md"
+    },
+    {
+      "id": "books/新六狐传",
+      "title": "新六狐传",
+      "sourceTitle": "新六狐传",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/新六狐传.md"
+    },
+    {
+      "id": "books/旭东的信",
+      "title": "旭东的信",
+      "sourceTitle": "旭东的信",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/旭东的信.md"
+    },
+    {
+      "id": "books/雪翅雁童话集",
+      "title": "雪翅雁童话集",
+      "sourceTitle": "雪翅雁童话集",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/雪翅雁童话集.md"
+    },
+    {
+      "id": "books/岩神传说",
+      "title": "岩神传说",
+      "sourceTitle": "岩神传说",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/岩神传说.md"
+    },
+    {
+      "id": "books/彦博的字条",
+      "title": "彦博的字条",
+      "sourceTitle": "彦博的字条",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/彦博的字条.md"
+    },
+    {
+      "id": "books/药师的笔记本",
+      "title": "药师的笔记本",
+      "sourceTitle": "药师的笔记本",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/药师的笔记本.md"
+    },
+    {
+      "id": "books/野猪公主",
+      "title": "野猪公主",
+      "sourceTitle": "野猪公主",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/野猪公主.md"
+    },
+    {
+      "id": "books/一封家信",
+      "title": "一封家信",
+      "sourceTitle": "一封家信",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/一封家信.md"
+    },
+    {
+      "id": "books/伊黎耶之歌",
+      "title": "伊黎耶之歌",
+      "sourceTitle": "伊黎耶之歌",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/伊黎耶之歌.md"
+    },
+    {
+      "id": "books/隐玉之泉",
+      "title": "隐玉之泉",
+      "sourceTitle": "隐玉之泉",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/隐玉之泉.md"
+    },
+    {
+      "id": "books/与神性同行",
+      "title": "与神性同行",
+      "sourceTitle": "与神性同行",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/与神性同行.md"
+    },
+    {
+      "id": "books/珍说澄研真影打",
+      "title": "珍说澄研真影打",
+      "sourceTitle": "珍说澄研真影打",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/珍说澄研真影打.md"
+    },
+    {
+      "id": "books/整理后的笔记",
+      "title": "整理后的笔记",
+      "sourceTitle": "整理后的笔记",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/整理后的笔记.md"
+    },
+    {
+      "id": "books/志琼的信",
+      "title": "志琼的信",
+      "sourceTitle": "志琼的信",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/志琼的信.md"
+    },
+    {
+      "id": "books/终北祷歌集",
+      "title": "终北祷歌集",
+      "sourceTitle": "终北祷歌集",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/终北祷歌集.md"
+    },
+    {
+      "id": "books/珠玑宝矿",
+      "title": "珠玑宝矿",
+      "sourceTitle": "珠玑宝矿",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/珠玑宝矿.md"
+    },
+    {
+      "id": "books/竹林月夜",
+      "title": "竹林月夜",
+      "sourceTitle": "竹林月夜",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/竹林月夜.md"
+    },
+    {
+      "id": "books/转生成为雷电将军，然后天下无敌",
+      "title": "转生成为雷电将军，然后天下无敌",
+      "sourceTitle": "转生成为雷电将军，然后天下无敌",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/转生成为雷电将军，然后天下无敌.md"
+    },
+    {
+      "id": "books/醉客轶事",
+      "title": "醉客轶事",
+      "sourceTitle": "醉客轶事",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/醉客轶事.md"
+    },
+    {
+      "id": "weapons/「究极霸王超级魔剑」",
+      "title": "「究极霸王超级魔剑」",
+      "sourceTitle": "「究极霸王超级魔剑」",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/「究极霸王超级魔剑」.md"
+    },
+    {
+      "id": "weapons/「渔获」",
+      "title": "「渔获」",
+      "sourceTitle": "「渔获」",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/「渔获」.md"
+    },
+    {
+      "id": "weapons/阿莫斯之弓",
+      "title": "阿莫斯之弓",
+      "sourceTitle": "阿莫斯之弓",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/阿莫斯之弓.md"
+    },
+    {
+      "id": "weapons/暗铁剑",
+      "title": "暗铁剑",
+      "sourceTitle": "暗铁剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/暗铁剑.md"
+    },
+    {
+      "id": "weapons/暗巷的酒与诗",
+      "title": "暗巷的酒与诗",
+      "sourceTitle": "暗巷的酒与诗",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/暗巷的酒与诗.md"
+    },
+    {
+      "id": "weapons/暗巷猎手",
+      "title": "暗巷猎手",
+      "sourceTitle": "暗巷猎手",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/暗巷猎手.md"
+    },
+    {
+      "id": "weapons/暗巷闪光",
+      "title": "暗巷闪光",
+      "sourceTitle": "暗巷闪光",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/暗巷闪光.md"
+    },
+    {
+      "id": "weapons/白辰之环",
+      "title": "白辰之环",
+      "sourceTitle": "白辰之环",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/白辰之环.md"
+    },
+    {
+      "id": "weapons/白铁大剑",
+      "title": "白铁大剑",
+      "sourceTitle": "白铁大剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/白铁大剑.md"
+    },
+    {
+      "id": "weapons/白缨枪",
+      "title": "白缨枪",
+      "sourceTitle": "白缨枪",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/白缨枪.md"
+    },
+    {
+      "id": "weapons/白影剑",
+      "title": "白影剑",
+      "sourceTitle": "白影剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/白影剑.md"
+    },
+    {
+      "id": "weapons/白雨心弦",
+      "title": "白雨心弦",
+      "sourceTitle": "白雨心弦",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/白雨心弦.md"
+    },
+    {
+      "id": "weapons/碧落之珑",
+      "title": "碧落之珑",
+      "sourceTitle": "碧落之珑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/碧落之珑.md"
+    },
+    {
+      "id": "weapons/便携动力锯",
+      "title": "便携动力锯",
+      "sourceTitle": "便携动力锯",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/便携动力锯.md"
+    },
+    {
+      "id": "weapons/波乱月白经津",
+      "title": "波乱月白经津",
+      "sourceTitle": "波乱月白经津",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/波乱月白经津.md"
+    },
+    {
+      "id": "weapons/不灭月华",
+      "title": "不灭月华",
+      "sourceTitle": "不灭月华",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/不灭月华.md"
+    },
+    {
+      "id": "weapons/裁断",
+      "title": "裁断",
+      "sourceTitle": "裁断",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/裁断.md"
+    },
+    {
+      "id": "weapons/裁叶萃光",
+      "title": "裁叶萃光",
+      "sourceTitle": "裁叶萃光",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/裁叶萃光.md"
+    },
+    {
+      "id": "weapons/苍翠猎弓",
+      "title": "苍翠猎弓",
+      "sourceTitle": "苍翠猎弓",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/苍翠猎弓.md"
+    },
+    {
+      "id": "weapons/苍古自由之誓",
+      "title": "苍古自由之誓",
+      "sourceTitle": "苍古自由之誓",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/苍古自由之誓.md"
+    },
+    {
+      "id": "weapons/苍纹角杯",
+      "title": "苍纹角杯",
+      "sourceTitle": "苍纹角杯",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/苍纹角杯.md"
+    },
+    {
+      "id": "weapons/苍耀",
+      "title": "苍耀",
+      "sourceTitle": "苍耀",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/苍耀.md"
+    },
+    {
+      "id": "weapons/测距规",
+      "title": "测距规",
+      "sourceTitle": "测距规",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/测距规.md"
+    },
+    {
+      "id": "weapons/尘光七谕",
+      "title": "尘光七谕",
+      "sourceTitle": "尘光七谕",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/尘光七谕.md"
+    },
+    {
+      "id": "weapons/尘世之锁",
+      "title": "尘世之锁",
+      "sourceTitle": "尘世之锁",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/尘世之锁.md"
+    },
+    {
+      "id": "weapons/辰砂之纺锤",
+      "title": "辰砂之纺锤",
+      "sourceTitle": "辰砂之纺锤",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/辰砂之纺锤.md"
+    },
+    {
+      "id": "weapons/乘浪的回旋",
+      "title": "乘浪的回旋",
+      "sourceTitle": "乘浪的回旋",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/乘浪的回旋.md"
+    },
+    {
+      "id": "weapons/吃虎鱼刀",
+      "title": "吃虎鱼刀",
+      "sourceTitle": "吃虎鱼刀",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/吃虎鱼刀.md"
+    },
+    {
+      "id": "weapons/螭骨剑",
+      "title": "螭骨剑",
+      "sourceTitle": "螭骨剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/螭骨剑.md"
+    },
+    {
+      "id": "weapons/赤角石溃杵",
+      "title": "赤角石溃杵",
+      "sourceTitle": "赤角石溃杵",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/赤角石溃杵.md"
+    },
+    {
+      "id": "weapons/赤沙之杖",
+      "title": "赤沙之杖",
+      "sourceTitle": "赤沙之杖",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/赤沙之杖.md"
+    },
+    {
+      "id": "weapons/赤月之形",
+      "title": "赤月之形",
+      "sourceTitle": "赤月之形",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/赤月之形.md"
+    },
+    {
+      "id": "weapons/冲浪时光",
+      "title": "冲浪时光",
+      "sourceTitle": "冲浪时光",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/冲浪时光.md"
+    },
+    {
+      "id": "weapons/船坞长剑",
+      "title": "船坞长剑",
+      "sourceTitle": "船坞长剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/船坞长剑.md"
+    },
+    {
+      "id": "weapons/纯水流华",
+      "title": "纯水流华",
+      "sourceTitle": "纯水流华",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/纯水流华.md"
+    },
+    {
+      "id": "weapons/弹弓",
+      "title": "弹弓",
+      "sourceTitle": "弹弓",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/弹弓.md"
+    },
+    {
+      "id": "weapons/笛剑",
+      "title": "笛剑",
+      "sourceTitle": "笛剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/笛剑.md"
+    },
+    {
+      "id": "weapons/东花坊时雨",
+      "title": "东花坊时雨",
+      "sourceTitle": "东花坊时雨",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/东花坊时雨.md"
+    },
+    {
+      "id": "weapons/冬极白星",
+      "title": "冬极白星",
+      "sourceTitle": "冬极白星",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/冬极白星.md"
+    },
+    {
+      "id": "weapons/嘟嘟可故事集",
+      "title": "嘟嘟可故事集",
+      "sourceTitle": "嘟嘟可故事集",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/嘟嘟可故事集.md"
+    },
+    {
+      "id": "weapons/断浪长鳍",
+      "title": "断浪长鳍",
+      "sourceTitle": "断浪长鳍",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/断浪长鳍.md"
+    },
+    {
+      "id": "weapons/厄水之祸",
+      "title": "厄水之祸",
+      "sourceTitle": "厄水之祸",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/厄水之祸.md"
+    },
+    {
+      "id": "weapons/恶王丸",
+      "title": "恶王丸",
+      "sourceTitle": "恶王丸",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/恶王丸.md"
+    },
+    {
+      "id": "weapons/反曲弓",
+      "title": "反曲弓",
+      "sourceTitle": "反曲弓",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/反曲弓.md"
+    },
+    {
+      "id": "weapons/纺夜天镜",
+      "title": "纺夜天镜",
+      "sourceTitle": "纺夜天镜",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/纺夜天镜.md"
+    },
+    {
+      "id": "weapons/飞雷之弦振",
+      "title": "飞雷之弦振",
+      "sourceTitle": "飞雷之弦振",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/飞雷之弦振.md"
+    },
+    {
+      "id": "weapons/飞天大御剑",
+      "title": "飞天大御剑",
+      "sourceTitle": "飞天大御剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/飞天大御剑.md"
+    },
+    {
+      "id": "weapons/飞天御剑",
+      "title": "飞天御剑",
+      "sourceTitle": "飞天御剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/飞天御剑.md"
+    },
+    {
+      "id": "weapons/朏魄含光",
+      "title": "朏魄含光",
+      "sourceTitle": "朏魄含光",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/朏魄含光.md"
+    },
+    {
+      "id": "weapons/翡玉法球",
+      "title": "翡玉法球",
+      "sourceTitle": "翡玉法球",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/翡玉法球.md"
+    },
+    {
+      "id": "weapons/焚曜千阳",
+      "title": "焚曜千阳",
+      "sourceTitle": "焚曜千阳",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/焚曜千阳.md"
+    },
+    {
+      "id": "weapons/风花之颂",
+      "title": "风花之颂",
+      "sourceTitle": "风花之颂",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/风花之颂.md"
+    },
+    {
+      "id": "weapons/风信之锋",
+      "title": "风信之锋",
+      "sourceTitle": "风信之锋",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/风信之锋.md"
+    },
+    {
+      "id": "weapons/风鹰剑",
+      "title": "风鹰剑",
+      "sourceTitle": "风鹰剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/风鹰剑.md"
+    },
+    {
+      "id": "weapons/腐殖之剑",
+      "title": "腐殖之剑",
+      "sourceTitle": "腐殖之剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/腐殖之剑.md"
+    },
+    {
+      "id": "weapons/钢轮弓",
+      "title": "钢轮弓",
+      "sourceTitle": "钢轮弓",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/钢轮弓.md"
+    },
+    {
+      "id": "weapons/弓藏",
+      "title": "弓藏",
+      "sourceTitle": "弓藏",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/弓藏.md"
+    },
+    {
+      "id": "weapons/公义的酬报",
+      "title": "公义的酬报",
+      "sourceTitle": "公义的酬报",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/公义的酬报.md"
+    },
+    {
+      "id": "weapons/贯虹之槊",
+      "title": "贯虹之槊",
+      "sourceTitle": "贯虹之槊",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/贯虹之槊.md"
+    },
+    {
+      "id": "weapons/贯月矢",
+      "title": "贯月矢",
+      "sourceTitle": "贯月矢",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/贯月矢.md"
+    },
+    {
+      "id": "weapons/桂木斩长正",
+      "title": "桂木斩长正",
+      "sourceTitle": "桂木斩长正",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/桂木斩长正.md"
+    },
+    {
+      "id": "weapons/海渊终曲",
+      "title": "海渊终曲",
+      "sourceTitle": "海渊终曲",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/海渊终曲.md"
+    },
+    {
+      "id": "weapons/撼地者",
+      "title": "撼地者",
+      "sourceTitle": "撼地者",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/撼地者.md"
+    },
+    {
+      "id": "weapons/和璞鸢",
+      "title": "和璞鸢",
+      "sourceTitle": "和璞鸢",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/和璞鸢.md"
+    },
+    {
+      "id": "weapons/鹤鸣余音",
+      "title": "鹤鸣余音",
+      "sourceTitle": "鹤鸣余音",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/鹤鸣余音.md"
+    },
+    {
+      "id": "weapons/黑剑",
+      "title": "黑剑",
+      "sourceTitle": "黑剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/黑剑.md"
+    },
+    {
+      "id": "weapons/黑蚀",
+      "title": "黑蚀",
+      "sourceTitle": "黑蚀",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/黑蚀.md"
+    },
+    {
+      "id": "weapons/黑岩刺枪",
+      "title": "黑岩刺枪",
+      "sourceTitle": "黑岩刺枪",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/黑岩刺枪.md"
+    },
+    {
+      "id": "weapons/黑岩绯玉",
+      "title": "黑岩绯玉",
+      "sourceTitle": "黑岩绯玉",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/黑岩绯玉.md"
+    },
+    {
+      "id": "weapons/黑岩斩刀",
+      "title": "黑岩斩刀",
+      "sourceTitle": "黑岩斩刀",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/黑岩斩刀.md"
+    },
+    {
+      "id": "weapons/黑岩战弓",
+      "title": "黑岩战弓",
+      "sourceTitle": "黑岩战弓",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/黑岩战弓.md"
+    },
+    {
+      "id": "weapons/黑岩长剑",
+      "title": "黑岩长剑",
+      "sourceTitle": "黑岩长剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/黑岩长剑.md"
+    },
+    {
+      "id": "weapons/黑缨枪",
+      "title": "黑缨枪",
+      "sourceTitle": "黑缨枪",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/黑缨枪.md"
+    },
+    {
+      "id": "weapons/虹的行迹",
+      "title": "虹的行迹",
+      "sourceTitle": "虹的行迹",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/虹的行迹.md"
+    },
+    {
+      "id": "weapons/虹蛇的雨弦",
+      "title": "虹蛇的雨弦",
+      "sourceTitle": "虹蛇的雨弦",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/虹蛇的雨弦.md"
+    },
+    {
+      "id": "weapons/护摩之杖",
+      "title": "护摩之杖",
+      "sourceTitle": "护摩之杖",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/护摩之杖.md"
+    },
+    {
+      "id": "weapons/鹮穿之喙",
+      "title": "鹮穿之喙",
+      "sourceTitle": "鹮穿之喙",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/鹮穿之喙.md"
+    },
+    {
+      "id": "weapons/灰河渡手",
+      "title": "灰河渡手",
+      "sourceTitle": "灰河渡手",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/灰河渡手.md"
+    },
+    {
+      "id": "weapons/祭礼残章",
+      "title": "祭礼残章",
+      "sourceTitle": "祭礼残章",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/祭礼残章.md"
+    },
+    {
+      "id": "weapons/祭礼大剑",
+      "title": "祭礼大剑",
+      "sourceTitle": "祭礼大剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/祭礼大剑.md"
+    },
+    {
+      "id": "weapons/祭礼弓",
+      "title": "祭礼弓",
+      "sourceTitle": "祭礼弓",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/祭礼弓.md"
+    },
+    {
+      "id": "weapons/祭礼剑",
+      "title": "祭礼剑",
+      "sourceTitle": "祭礼剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/祭礼剑.md"
+    },
+    {
+      "id": "weapons/祭星者之望",
+      "title": "祭星者之望",
+      "sourceTitle": "祭星者之望",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/祭星者之望.md"
+    },
+    {
+      "id": "weapons/甲级宝珏",
+      "title": "甲级宝珏",
+      "sourceTitle": "甲级宝珏",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/甲级宝珏.md"
+    },
+    {
+      "id": "weapons/降临之剑",
+      "title": "降临之剑",
+      "sourceTitle": "降临之剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/降临之剑.md"
+    },
+    {
+      "id": "weapons/竭泽",
+      "title": "竭泽",
+      "sourceTitle": "竭泽",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/竭泽.md"
+    },
+    {
+      "id": "weapons/金流监督",
+      "title": "金流监督",
+      "sourceTitle": "金流监督",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/金流监督.md"
+    },
+    {
+      "id": "weapons/静谧之曲",
+      "title": "静谧之曲",
+      "sourceTitle": "静谧之曲",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/静谧之曲.md"
+    },
+    {
+      "id": "weapons/静水流涌之辉",
+      "title": "静水流涌之辉",
+      "sourceTitle": "静水流涌之辉",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/静水流涌之辉.md"
+    },
+    {
+      "id": "weapons/决斗之枪",
+      "title": "决斗之枪",
+      "sourceTitle": "决斗之枪",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/决斗之枪.md"
+    },
+    {
+      "id": "weapons/绝弦",
+      "title": "绝弦",
+      "sourceTitle": "绝弦",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/绝弦.md"
+    },
+    {
+      "id": "weapons/掘金之锹",
+      "title": "掘金之锹",
+      "sourceTitle": "掘金之锹",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/掘金之锹.md"
+    },
+    {
+      "id": "weapons/勘探钻机",
+      "title": "勘探钻机",
+      "sourceTitle": "勘探钻机",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/勘探钻机.md"
+    },
+    {
+      "id": "weapons/口袋魔导书",
+      "title": "口袋魔导书",
+      "sourceTitle": "口袋魔导书",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/口袋魔导书.md"
+    },
+    {
+      "id": "weapons/狼的末路",
+      "title": "狼的末路",
+      "sourceTitle": "狼的末路",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/狼的末路.md"
+    },
+    {
+      "id": "weapons/狼的武功歌",
+      "title": "狼的武功歌",
+      "sourceTitle": "狼的武功歌",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/狼的武功歌.md"
+    },
+    {
+      "id": "weapons/狼牙",
+      "title": "狼牙",
+      "sourceTitle": "狼牙",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/狼牙.md"
+    },
+    {
+      "id": "weapons/浪影阔剑",
+      "title": "浪影阔剑",
+      "sourceTitle": "浪影阔剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/浪影阔剑.md"
+    },
+    {
+      "id": "weapons/冷寂迸音",
+      "title": "冷寂迸音",
+      "sourceTitle": "冷寂迸音",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/冷寂迸音.md"
+    },
+    {
+      "id": "weapons/冷刃",
+      "title": "冷刃",
+      "sourceTitle": "冷刃",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/冷刃.md"
+    },
+    {
+      "id": "weapons/黎明破晓之史",
+      "title": "黎明破晓之史",
+      "sourceTitle": "黎明破晓之史",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/黎明破晓之史.md"
+    },
+    {
+      "id": "weapons/黎明神剑",
+      "title": "黎明神剑",
+      "sourceTitle": "黎明神剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/黎明神剑.md"
+    },
+    {
+      "id": "weapons/历练的猎弓",
+      "title": "历练的猎弓",
+      "sourceTitle": "历练的猎弓",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/历练的猎弓.md"
+    },
+    {
+      "id": "weapons/聊聊棒",
+      "title": "聊聊棒",
+      "sourceTitle": "聊聊棒",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/聊聊棒.md"
+    },
+    {
+      "id": "weapons/烈阳之嗣",
+      "title": "烈阳之嗣",
+      "sourceTitle": "烈阳之嗣",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/烈阳之嗣.md"
+    },
+    {
+      "id": "weapons/猎弓",
+      "title": "猎弓",
+      "sourceTitle": "猎弓",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/猎弓.md"
+    },
+    {
+      "id": "weapons/猎人之径",
+      "title": "猎人之径",
+      "sourceTitle": "猎人之径",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/猎人之径.md"
+    },
+    {
+      "id": "weapons/流浪的晚星",
+      "title": "流浪的晚星",
+      "sourceTitle": "流浪的晚星",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/流浪的晚星.md"
+    },
+    {
+      "id": "weapons/流浪乐章",
+      "title": "流浪乐章",
+      "sourceTitle": "流浪乐章",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/流浪乐章.md"
+    },
+    {
+      "id": "weapons/流月针",
+      "title": "流月针",
+      "sourceTitle": "流月针",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/流月针.md"
+    },
+    {
+      "id": "weapons/龙脊长枪",
+      "title": "龙脊长枪",
+      "sourceTitle": "龙脊长枪",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/龙脊长枪.md"
+    },
+    {
+      "id": "weapons/笼钓瓶一心",
+      "title": "笼钓瓶一心",
+      "sourceTitle": "笼钓瓶一心",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/笼钓瓶一心.md"
+    },
+    {
+      "id": "weapons/旅行剑",
+      "title": "旅行剑",
+      "sourceTitle": "旅行剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/旅行剑.md"
+    },
+    {
+      "id": "weapons/掠食者",
+      "title": "掠食者",
+      "sourceTitle": "掠食者",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/掠食者.md"
+    },
+    {
+      "id": "weapons/罗网勾针",
+      "title": "罗网勾针",
+      "sourceTitle": "罗网勾针",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/罗网勾针.md"
+    },
+    {
+      "id": "weapons/落霞",
+      "title": "落霞",
+      "sourceTitle": "落霞",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/落霞.md"
+    },
+    {
+      "id": "weapons/玛海菈的水色",
+      "title": "玛海菈的水色",
+      "sourceTitle": "玛海菈的水色",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/玛海菈的水色.md"
+    },
+    {
+      "id": "weapons/曚云之月",
+      "title": "曚云之月",
+      "sourceTitle": "曚云之月",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/曚云之月.md"
+    },
+    {
+      "id": "weapons/弥坚骨",
+      "title": "弥坚骨",
+      "sourceTitle": "弥坚骨",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/弥坚骨.md"
+    },
+    {
+      "id": "weapons/谧音吹哨",
+      "title": "谧音吹哨",
+      "sourceTitle": "谧音吹哨",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/谧音吹哨.md"
+    },
+    {
+      "id": "weapons/魔导绪论",
+      "title": "魔导绪论",
+      "sourceTitle": "魔导绪论",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/魔导绪论.md"
+    },
+    {
+      "id": "weapons/木棉之环",
+      "title": "木棉之环",
+      "sourceTitle": "木棉之环",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/木棉之环.md"
+    },
+    {
+      "id": "weapons/沐浴龙血的剑",
+      "title": "沐浴龙血的剑",
+      "sourceTitle": "沐浴龙血的剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/沐浴龙血的剑.md"
+    },
+    {
+      "id": "weapons/磐岩结绿",
+      "title": "磐岩结绿",
+      "sourceTitle": "磐岩结绿",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/磐岩结绿.md"
+    },
+    {
+      "id": "weapons/破魔之弓",
+      "title": "破魔之弓",
+      "sourceTitle": "破魔之弓",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/破魔之弓.md"
+    },
+    {
+      "id": "weapons/千岩古剑",
+      "title": "千岩古剑",
+      "sourceTitle": "千岩古剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/千岩古剑.md"
+    },
+    {
+      "id": "weapons/千岩长枪",
+      "title": "千岩长枪",
+      "sourceTitle": "千岩长枪",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/千岩长枪.md"
+    },
+    {
+      "id": "weapons/千夜浮梦",
+      "title": "千夜浮梦",
+      "sourceTitle": "千夜浮梦",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/千夜浮梦.md"
+    },
+    {
+      "id": "weapons/且住亭御咄",
+      "title": "且住亭御咄",
+      "sourceTitle": "且住亭御咄",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/且住亭御咄.md"
+    },
+    {
+      "id": "weapons/寝正月初晴",
+      "title": "寝正月初晴",
+      "sourceTitle": "寝正月初晴",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/寝正月初晴.md"
+    },
+    {
+      "id": "weapons/忍冬之果",
+      "title": "忍冬之果",
+      "sourceTitle": "忍冬之果",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/忍冬之果.md"
+    },
+    {
+      "id": "weapons/柔灯挽歌",
+      "title": "柔灯挽歌",
+      "sourceTitle": "柔灯挽歌",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/柔灯挽歌.md"
+    },
+    {
+      "id": "weapons/若水",
+      "title": "若水",
+      "sourceTitle": "若水",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/若水.md"
+    },
+    {
+      "id": "weapons/森林王器",
+      "title": "森林王器",
+      "sourceTitle": "森林王器",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/森林王器.md"
+    },
+    {
+      "id": "weapons/沙中伟贤的对答",
+      "title": "沙中伟贤的对答",
+      "sourceTitle": "沙中伟贤的对答",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/沙中伟贤的对答.md"
+    },
+    {
+      "id": "weapons/山王长牙",
+      "title": "山王长牙",
+      "sourceTitle": "山王长牙",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/山王长牙.md"
+    },
+    {
+      "id": "weapons/赦罪",
+      "title": "赦罪",
+      "sourceTitle": "赦罪",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/赦罪.md"
+    },
+    {
+      "id": "weapons/神乐之真意",
+      "title": "神乐之真意",
+      "sourceTitle": "神乐之真意",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/神乐之真意.md"
+    },
+    {
+      "id": "weapons/神射手之誓",
+      "title": "神射手之誓",
+      "sourceTitle": "神射手之誓",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/神射手之誓.md"
+    },
+    {
+      "id": "weapons/圣祭者的辉杖",
+      "title": "圣祭者的辉杖",
+      "sourceTitle": "圣祭者的辉杖",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/圣祭者的辉杖.md"
+    },
+    {
+      "id": "weapons/圣显之钥",
+      "title": "圣显之钥",
+      "sourceTitle": "圣显之钥",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/圣显之钥.md"
+    },
+    {
+      "id": "weapons/拾慧铸熔",
+      "title": "拾慧铸熔",
+      "sourceTitle": "拾慧铸熔",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/拾慧铸熔.md"
+    },
+    {
+      "id": "weapons/试作澹月",
+      "title": "试作澹月",
+      "sourceTitle": "试作澹月",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/试作澹月.md"
+    },
+    {
+      "id": "weapons/试作古华",
+      "title": "试作古华",
+      "sourceTitle": "试作古华",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/试作古华.md"
+    },
+    {
+      "id": "weapons/试作金珀",
+      "title": "试作金珀",
+      "sourceTitle": "试作金珀",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/试作金珀.md"
+    },
+    {
+      "id": "weapons/试作星镰",
+      "title": "试作星镰",
+      "sourceTitle": "试作星镰",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/试作星镰.md"
+    },
+    {
+      "id": "weapons/试作斩岩",
+      "title": "试作斩岩",
+      "sourceTitle": "试作斩岩",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/试作斩岩.md"
+    },
+    {
+      "id": "weapons/饰铁之花",
+      "title": "饰铁之花",
+      "sourceTitle": "饰铁之花",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/饰铁之花.md"
+    },
+    {
+      "id": "weapons/霜辰",
+      "title": "霜辰",
+      "sourceTitle": "霜辰",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/霜辰.md"
+    },
+    {
+      "id": "weapons/霜结的誓金枝",
+      "title": "霜结的誓金枝",
+      "sourceTitle": "霜结的誓金枝",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/霜结的誓金枝.md"
+    },
+    {
+      "id": "weapons/水仙十字之剑",
+      "title": "水仙十字之剑",
+      "sourceTitle": "水仙十字之剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/水仙十字之剑.md"
+    },
+    {
+      "id": "weapons/硕果钩",
+      "title": "硕果钩",
+      "sourceTitle": "硕果钩",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/硕果钩.md"
+    },
+    {
+      "id": "weapons/四风原典",
+      "title": "四风原典",
+      "sourceTitle": "四风原典",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/四风原典.md"
+    },
+    {
+      "id": "weapons/松籁响起之时",
+      "title": "松籁响起之时",
+      "sourceTitle": "松籁响起之时",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/松籁响起之时.md"
+    },
+    {
+      "id": "weapons/碎链",
+      "title": "碎链",
+      "sourceTitle": "碎链",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/碎链.md"
+    },
+    {
+      "id": "weapons/讨龙英杰谭",
+      "title": "讨龙英杰谭",
+      "sourceTitle": "讨龙英杰谭",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/讨龙英杰谭.md"
+    },
+    {
+      "id": "weapons/薙草之稻光",
+      "title": "薙草之稻光",
+      "sourceTitle": "薙草之稻光",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/薙草之稻光.md"
+    },
+    {
+      "id": "weapons/天光的纺琴",
+      "title": "天光的纺琴",
+      "sourceTitle": "天光的纺琴",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/天光的纺琴.md"
+    },
+    {
+      "id": "weapons/天空之傲",
+      "title": "天空之傲",
+      "sourceTitle": "天空之傲",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/天空之傲.md"
+    },
+    {
+      "id": "weapons/天空之脊",
+      "title": "天空之脊",
+      "sourceTitle": "天空之脊",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/天空之脊.md"
+    },
+    {
+      "id": "weapons/天空之卷",
+      "title": "天空之卷",
+      "sourceTitle": "天空之卷",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/天空之卷.md"
+    },
+    {
+      "id": "weapons/天空之刃",
+      "title": "天空之刃",
+      "sourceTitle": "天空之刃",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/天空之刃.md"
+    },
+    {
+      "id": "weapons/天空之翼",
+      "title": "天空之翼",
+      "sourceTitle": "天空之翼",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/天空之翼.md"
+    },
+    {
+      "id": "weapons/天目影打刀",
+      "title": "天目影打刀",
+      "sourceTitle": "天目影打刀",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/天目影打刀.md"
+    },
+    {
+      "id": "weapons/铁蜂刺",
+      "title": "铁蜂刺",
+      "sourceTitle": "铁蜂刺",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/铁蜂刺.md"
+    },
+    {
+      "id": "weapons/铁尖枪",
+      "title": "铁尖枪",
+      "sourceTitle": "铁尖枪",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/铁尖枪.md"
+    },
+    {
+      "id": "weapons/铁影阔剑",
+      "title": "铁影阔剑",
+      "sourceTitle": "铁影阔剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/铁影阔剑.md"
+    },
+    {
+      "id": "weapons/图莱杜拉的回忆",
+      "title": "图莱杜拉的回忆",
+      "sourceTitle": "图莱杜拉的回忆",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/图莱杜拉的回忆.md"
+    },
+    {
+      "id": "weapons/万国诸海图谱",
+      "title": "万国诸海图谱",
+      "sourceTitle": "万国诸海图谱",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/万国诸海图谱.md"
+    },
+    {
+      "id": "weapons/万能钥匙",
+      "title": "万能钥匙",
+      "sourceTitle": "万能钥匙",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/万能钥匙.md"
+    },
+    {
+      "id": "weapons/万世流涌大典",
+      "title": "万世流涌大典",
+      "sourceTitle": "万世流涌大典",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/万世流涌大典.md"
+    },
+    {
+      "id": "weapons/王下近侍",
+      "title": "王下近侍",
+      "sourceTitle": "王下近侍",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/王下近侍.md"
+    },
+    {
+      "id": "weapons/帷间夜曲",
+      "title": "帷间夜曲",
+      "sourceTitle": "帷间夜曲",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/帷间夜曲.md"
+    },
+    {
+      "id": "weapons/苇海信标",
+      "title": "苇海信标",
+      "sourceTitle": "苇海信标",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/苇海信标.md"
+    },
+    {
+      "id": "weapons/乌髓孑灯",
+      "title": "乌髓孑灯",
+      "sourceTitle": "乌髓孑灯",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/乌髓孑灯.md"
+    },
+    {
+      "id": "weapons/无锋剑",
+      "title": "无锋剑",
+      "sourceTitle": "无锋剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/无锋剑.md"
+    },
+    {
+      "id": "weapons/无工之剑",
+      "title": "无工之剑",
+      "sourceTitle": "无工之剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/无工之剑.md"
+    },
+    {
+      "id": "weapons/无垠蔚蓝之歌",
+      "title": "无垠蔚蓝之歌",
+      "sourceTitle": "无垠蔚蓝之歌",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/无垠蔚蓝之歌.md"
+    },
+    {
+      "id": "weapons/雾切之回光",
+      "title": "雾切之回光",
+      "sourceTitle": "雾切之回光",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/雾切之回光.md"
+    },
+    {
+      "id": "weapons/西风大剑",
+      "title": "西风大剑",
+      "sourceTitle": "西风大剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/西风大剑.md"
+    },
+    {
+      "id": "weapons/西风剑",
+      "title": "西风剑",
+      "sourceTitle": "西风剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/西风剑.md"
+    },
+    {
+      "id": "weapons/西风猎弓",
+      "title": "西风猎弓",
+      "sourceTitle": "西风猎弓",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/西风猎弓.md"
+    },
+    {
+      "id": "weapons/西风秘典",
+      "title": "西风秘典",
+      "sourceTitle": "西风秘典",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/西风秘典.md"
+    },
+    {
+      "id": "weapons/西风长枪",
+      "title": "西风长枪",
+      "sourceTitle": "西风长枪",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/西风长枪.md"
+    },
+    {
+      "id": "weapons/西福斯的月光",
+      "title": "西福斯的月光",
+      "sourceTitle": "西福斯的月光",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/西福斯的月光.md"
+    },
+    {
+      "id": "weapons/息燧之笛",
+      "title": "息燧之笛",
+      "sourceTitle": "息燧之笛",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/息燧之笛.md"
+    },
+    {
+      "id": "weapons/息灾",
+      "title": "息灾",
+      "sourceTitle": "息灾",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/息灾.md"
+    },
+    {
+      "id": "weapons/喜多院十文字",
+      "title": "喜多院十文字",
+      "sourceTitle": "喜多院十文字",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/喜多院十文字.md"
+    },
+    {
+      "id": "weapons/匣里龙吟",
+      "title": "匣里龙吟",
+      "sourceTitle": "匣里龙吟",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/匣里龙吟.md"
+    },
+    {
+      "id": "weapons/匣里灭辰",
+      "title": "匣里灭辰",
+      "sourceTitle": "匣里灭辰",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/匣里灭辰.md"
+    },
+    {
+      "id": "weapons/匣里日月",
+      "title": "匣里日月",
+      "sourceTitle": "匣里日月",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/匣里日月.md"
+    },
+    {
+      "id": "weapons/峡湾长歌",
+      "title": "峡湾长歌",
+      "sourceTitle": "峡湾长歌",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/峡湾长歌.md"
+    },
+    {
+      "id": "weapons/衔珠海皇",
+      "title": "衔珠海皇",
+      "sourceTitle": "衔珠海皇",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/衔珠海皇.md"
+    },
+    {
+      "id": "weapons/香韵奏者",
+      "title": "香韵奏者",
+      "sourceTitle": "香韵奏者",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/香韵奏者.md"
+    },
+    {
+      "id": "weapons/新手长枪",
+      "title": "新手长枪",
+      "sourceTitle": "新手长枪",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/新手长枪.md"
+    },
+    {
+      "id": "weapons/信使",
+      "title": "信使",
+      "sourceTitle": "信使",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/信使.md"
+    },
+    {
+      "id": "weapons/星鹫赤羽",
+      "title": "星鹫赤羽",
+      "sourceTitle": "星鹫赤羽",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/星鹫赤羽.md"
+    },
+    {
+      "id": "weapons/学徒笔记",
+      "title": "学徒笔记",
+      "sourceTitle": "学徒笔记",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/学徒笔记.md"
+    },
+    {
+      "id": "weapons/雪葬的星银",
+      "title": "雪葬的星银",
+      "sourceTitle": "雪葬的星银",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/雪葬的星银.md"
+    },
+    {
+      "id": "weapons/血染荒城",
+      "title": "血染荒城",
+      "sourceTitle": "血染荒城",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/血染荒城.md"
+    },
+    {
+      "id": "weapons/训练大剑",
+      "title": "训练大剑",
+      "sourceTitle": "训练大剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/训练大剑.md"
+    },
+    {
+      "id": "weapons/鸦羽弓",
+      "title": "鸦羽弓",
+      "sourceTitle": "鸦羽弓",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/鸦羽弓.md"
+    },
+    {
+      "id": "weapons/岩峰巡歌",
+      "title": "岩峰巡歌",
+      "sourceTitle": "岩峰巡歌",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/岩峰巡歌.md"
+    },
+    {
+      "id": "weapons/遗祀玉珑",
+      "title": "遗祀玉珑",
+      "sourceTitle": "遗祀玉珑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/遗祀玉珑.md"
+    },
+    {
+      "id": "weapons/以理服人",
+      "title": "以理服人",
+      "sourceTitle": "以理服人",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/以理服人.md"
+    },
+    {
+      "id": "weapons/异世界行记",
+      "title": "异世界行记",
+      "sourceTitle": "异世界行记",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/异世界行记.md"
+    },
+    {
+      "id": "weapons/溢彩心念",
+      "title": "溢彩心念",
+      "sourceTitle": "溢彩心念",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/溢彩心念.md"
+    },
+    {
+      "id": "weapons/银剑",
+      "title": "银剑",
+      "sourceTitle": "银剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/银剑.md"
+    },
+    {
+      "id": "weapons/盈满之实",
+      "title": "盈满之实",
+      "sourceTitle": "盈满之实",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/盈满之实.md"
+    },
+    {
+      "id": "weapons/佣兵重剑",
+      "title": "佣兵重剑",
+      "sourceTitle": "佣兵重剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/佣兵重剑.md"
+    },
+    {
+      "id": "weapons/幽夜华尔兹",
+      "title": "幽夜华尔兹",
+      "sourceTitle": "幽夜华尔兹",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/幽夜华尔兹.md"
+    },
+    {
+      "id": "weapons/有乐御簾切",
+      "title": "有乐御簾切",
+      "sourceTitle": "有乐御簾切",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/有乐御簾切.md"
+    },
+    {
+      "id": "weapons/雨裁",
+      "title": "雨裁",
+      "sourceTitle": "雨裁",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/雨裁.md"
+    },
+    {
+      "id": "weapons/原木刀",
+      "title": "原木刀",
+      "sourceTitle": "原木刀",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/原木刀.md"
+    },
+    {
+      "id": "weapons/钺矛",
+      "title": "钺矛",
+      "sourceTitle": "钺矛",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/钺矛.md"
+    },
+    {
+      "id": "weapons/昭心",
+      "title": "昭心",
+      "sourceTitle": "昭心",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/昭心.md"
+    },
+    {
+      "id": "weapons/真语秘匣",
+      "title": "真语秘匣",
+      "sourceTitle": "真语秘匣",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/真语秘匣.md"
+    },
+    {
+      "id": "weapons/镇山之钉",
+      "title": "镇山之钉",
+      "sourceTitle": "镇山之钉",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/镇山之钉.md"
+    },
+    {
+      "id": "weapons/证誓之明瞳",
+      "title": "证誓之明瞳",
+      "sourceTitle": "证誓之明瞳",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/证誓之明瞳.md"
+    },
+    {
+      "id": "weapons/支离轮光",
+      "title": "支离轮光",
+      "sourceTitle": "支离轮光",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/支离轮光.md"
+    },
+    {
+      "id": "weapons/织月者的曙色",
+      "title": "织月者的曙色",
+      "sourceTitle": "织月者的曙色",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/织月者的曙色.md"
+    },
+    {
+      "id": "weapons/终末嗟叹之诗",
+      "title": "终末嗟叹之诗",
+      "sourceTitle": "终末嗟叹之诗",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/终末嗟叹之诗.md"
+    },
+    {
+      "id": "weapons/钟剑",
+      "title": "钟剑",
+      "sourceTitle": "钟剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/钟剑.md"
+    },
+    {
+      "id": "weapons/筑云",
+      "title": "筑云",
+      "sourceTitle": "筑云",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/筑云.md"
+    },
+    {
+      "id": "weapons/缀花之翎",
+      "title": "缀花之翎",
+      "sourceTitle": "缀花之翎",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/缀花之翎.md"
+    },
+    {
+      "id": "weapons/斫峰之刃",
+      "title": "斫峰之刃",
+      "sourceTitle": "斫峰之刃",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/斫峰之刃.md"
+    },
+    {
+      "id": "weapons/宗室大剑",
+      "title": "宗室大剑",
+      "sourceTitle": "宗室大剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/宗室大剑.md"
+    },
+    {
+      "id": "weapons/宗室猎枪",
+      "title": "宗室猎枪",
+      "sourceTitle": "宗室猎枪",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/宗室猎枪.md"
+    },
+    {
+      "id": "weapons/宗室秘法录",
+      "title": "宗室秘法录",
+      "sourceTitle": "宗室秘法录",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/宗室秘法录.md"
+    },
+    {
+      "id": "weapons/宗室长弓",
+      "title": "宗室长弓",
+      "sourceTitle": "宗室长弓",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/宗室长弓.md"
+    },
+    {
+      "id": "weapons/宗室长剑",
+      "title": "宗室长剑",
+      "sourceTitle": "宗室长剑",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/宗室长剑.md"
+    },
+    {
+      "id": "weapons/最初的大魔术",
+      "title": "最初的大魔术",
+      "sourceTitle": "最初的大魔术",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/最初的大魔术.md"
+    }
+  ]
+}

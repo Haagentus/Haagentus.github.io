@@ -1,0 +1,6 @@
+[submodule "texts/GI-Ebook"]
+	path = texts/GI-Ebook
+	url = https://github.com/MIN-121/GI-Ebook
+[submodule "tools/genshinEventSourceDL"]
+	path = tools/genshinEventSourceDL
+	url = https://github.com/LCYBFF/genshinEventSourceDL.git

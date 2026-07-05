@@ -1,0 +1,663 @@
+/* ========================================
+   翻译页面样式 - 优化版
+   ======================================== */
+
+/* 基础容器 */
+.preview-shell {
+    min-height: calc(100vh - 150px);
+    padding: 110px 16px 36px;
+}
+
+.preview-main {
+    width: min(1180px, 100%);
+    margin: 0 auto;
+}
+
+/* 页面标题区域 */
+.page-kicker {
+    margin: 0 0 10px;
+    color: #d5aa4c;
+    font: 700 12px/1 Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.page-title {
+    margin-bottom: 16px;
+    font-size: clamp(34px, 6vw, 72px);
+    line-height: 1.05;
+    letter-spacing: 0;
+    text-transform: none;
+}
+
+.page-lead {
+    max-width: 760px;
+    color: rgba(255, 255, 255, .82);
+}
+
+/* 主工作区布局 */
+.preview-workspace {
+    display: grid;
+    grid-template-columns: minmax(280px, 420px) minmax(0, 1fr);
+    gap: 18px;
+    margin-top: 30px;
+}
+
+/* 面板基础样式 */
+.tool-panel,
+.render-panel {
+    border: 1px solid rgba(255, 255, 255, .13);
+    background: rgba(0, 0, 0, .44);
+    box-shadow: 0 18px 42px rgba(0, 0, 0, .24);
+    border-radius: 8px;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.tool-panel:hover,
+.render-panel:hover {
+    box-shadow: 0 22px 48px rgba(0, 0, 0, .32);
+}
+
+.tool-panel {
+    padding: 18px;
+}
+
+.panel-block + .panel-block {
+    margin-top: 18px;
+}
+
+/* 控件标签 */
+.control-label {
+    display: block;
+    margin-bottom: 8px;
+    color: rgba(255, 255, 255, .78);
+    font: 700 12px/1.3 Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+/* 输入控件 */
+.preview-textarea,
+.control-select {
+    width: 100%;
+    border: 1px solid rgba(255, 255, 255, .16);
+    border-radius: 6px;
+    color: #fff;
+    background: rgba(0, 0, 0, .42);
+    outline: 0;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+}
+
+.preview-textarea {
+    min-height: 210px;
+    resize: vertical;
+    padding: 14px;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.control-select {
+    height: 44px;
+    padding: 0 36px 0 12px;
+    cursor: pointer;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23ffffff' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 12px center;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.control-select:hover {
+    border-color: rgba(255, 255, 255, .24);
+    background-color: rgba(0, 0, 0, .48);
+}
+
+.preview-textarea:focus,
+.control-select:focus,
+.range-control input:focus {
+    border-color: #d5aa4c;
+    box-shadow: 0 0 0 3px rgba(213, 170, 76, .25);
+    background-color: rgba(0, 0, 0, .48);
+}
+
+.preview-textarea::placeholder,
+.control-select::placeholder {
+    color: rgba(255, 255, 255, .4);
+}
+
+/* 示例按钮列表 */
+.example-list,
+.align-toggle {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.chip-button,
+.icon-button {
+    min-height: 36px;
+    border: 1px solid rgba(255, 255, 255, .16);
+    border-radius: 20px;
+    color: rgba(255, 255, 255, .86);
+    background: rgba(255, 255, 255, .06);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-family: inherit;
+    font-size: 14px;
+}
+
+.chip-button {
+    padding: 0 16px;
+}
+
+.chip-button:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, .2);
+}
+
+.icon-button {
+    width: 40px;
+    font-weight: 700;
+    border-radius: 6px;
+}
+
+.icon-button:hover {
+    transform: translateY(-1px);
+}
+
+.chip-button:focus,
+.icon-button:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(213, 170, 76, .3);
+}
+
+.chip-button:active,
+.icon-button:active {
+    transform: translateY(0);
+}
+
+.chip-button:hover,
+.chip-button:focus,
+.icon-button:hover,
+.icon-button:focus,
+.icon-button.is-active {
+    border-color: #d5aa4c;
+    color: #fff;
+    background: rgba(213, 170, 76, .18);
+}
+
+/* 滑块控件 */
+.range-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+}
+
+.range-control {
+    display: block;
+}
+
+.range-control input[type="range"] {
+    width: 100%;
+    height: 6px;
+    border-radius: 3px;
+    background: rgba(255, 255, 255, .16);
+    outline: none;
+    -webkit-appearance: none;
+    appearance: none;
+    margin-top: 8px;
+}
+
+.range-control input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #d5aa4c;
+    cursor: pointer;
+    border: 2px solid rgba(255, 255, 255, .2);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.range-control input[type="range"]::-webkit-slider-thumb:hover {
+    transform: scale(1.1);
+    box-shadow: 0 2px 8px rgba(213, 170, 76, .4);
+}
+
+.range-control input[type="range"]::-moz-range-thumb {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #d5aa4c;
+    cursor: pointer;
+    border: 2px solid rgba(255, 255, 255, .2);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.range-control input[type="range"]::-moz-range-thumb:hover {
+    transform: scale(1.1);
+    box-shadow: 0 2px 8px rgba(213, 170, 76, .4);
+}
+
+.range-control input:focus {
+    background: rgba(255, 255, 255, .2);
+}
+
+.range-value {
+    float: right;
+    color: rgba(255, 255, 255, .66);
+    font-weight: 400;
+    font-size: 12px;
+}
+
+/* 渲染面板 */
+.render-panel {
+    display: flex;
+    min-height: 560px;
+    flex-direction: column;
+}
+
+.render-meta {
+    display: grid;
+    gap: 14px;
+    padding: 16px 18px;
+    border-bottom: 1px solid rgba(255, 255, 255, .12);
+    background: rgba(0, 0, 0, .15);
+    border-radius: 8px 8px 0 0;
+}
+
+.render-heading {
+    min-width: 0;
+}
+
+.render-meta h2 {
+    margin: 0 0 4px;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 1.25;
+    text-transform: none;
+    color: #fff;
+}
+
+.render-meta p {
+    margin: 0;
+    color: rgba(255, 255, 255, .62);
+    font-size: 14px;
+}
+
+/* 字体控制网格 */
+.font-control-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+}
+
+.font-control-grid label:first-child {
+    grid-column: 1;
+}
+
+.font-control-grid label:last-child {
+    grid-column: 2;
+}
+
+.font-control-grid .control-label {
+    margin-bottom: 6px;
+}
+
+/* 下载链接 */
+.download-link {
+    display: inline-flex;
+    min-height: 36px;
+    align-items: center;
+    justify-content: center;
+    padding: 0 16px;
+    border: 1px solid #219ab3;
+    border-radius: 6px;
+    color: #9ee8f5;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    transition: all 0.2s ease;
+    text-decoration: none;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+.download-link:hover,
+.download-link:focus {
+    color: #001014;
+    background: #219ab3;
+    text-decoration: none;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(33, 154, 179, .3);
+}
+
+.download-link:active {
+    transform: translateY(0);
+}
+
+.download-link:disabled {
+    cursor: wait;
+    opacity: .62;
+    transform: none;
+}
+
+/* 渲染字体行 */
+.render-font-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    padding-top: 4px;
+}
+
+.render-heading {
+    flex: 1;
+    min-width: 0;
+}
+
+.image-save-button {
+    background: transparent;
+}
+
+/* 预览阶段 */
+.preview-stage {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 14px;
+    padding: clamp(18px, 5vw, 56px);
+}
+
+.preview-output {
+    width: 100%;
+    min-height: 320px;
+    padding: clamp(18px, 4vw, 42px);
+    border: 1px solid rgba(255, 255, 255, .12);
+    background:
+        linear-gradient(135deg, rgba(255, 255, 255, .07), rgba(255, 255, 255, .01)),
+        rgba(255, 255, 255, .04);
+    white-space: pre-wrap;
+    word-break: break-word;
+    border-radius: 8px;
+    transition: background 0.3s ease;
+}
+
+.preview-output:hover {
+    background:
+        linear-gradient(135deg, rgba(255, 255, 255, .09), rgba(255, 255, 255, .03)),
+        rgba(255, 255, 255, .06);
+}
+
+/* 加载状态 */
+.loading-state {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    color: rgba(255, 255, 255, .6);
+    font-size: 14px;
+}
+
+.loading-spinner {
+    width: 16px;
+    height: 16px;
+    border: 2px solid rgba(255, 255, 255, .2);
+    border-top-color: #d5aa4c;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+/* 响应式设计 */
+@media (max-width: 860px) {
+    .preview-shell {
+        padding-top: 82px;
+    }
+
+    .preview-workspace {
+        grid-template-columns: 1fr;
+    }
+
+    .render-panel {
+        min-height: 420px;
+    }
+
+    .render-font-row {
+        flex-wrap: wrap;
+    }
+
+    .render-heading {
+        flex-basis: 100%;
+        margin-bottom: 8px;
+    }
+
+    .download-link {
+        flex-basis: 100%;
+    }
+
+    .preview-main {
+        padding: 0 8px;
+    }
+}
+
+@media (max-width: 560px) {
+    .range-grid {
+        grid-template-columns: 1fr;
+        gap: 16px;
+    }
+
+    .font-control-grid {
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+
+    .range-control + .range-control {
+        margin-top: 0;
+    }
+
+    .render-font-row {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .render-heading {
+        margin-bottom: 12px;
+    }
+
+    .download-link {
+        width: 100%;
+    }
+
+    .chip-button {
+        font-size: 13px;
+        padding: 0 12px;
+        min-height: 34px;
+    }
+
+    .icon-button {
+        width: 36px;
+        min-height: 34px;
+    }
+
+    .control-select {
+        font-size: 16px; /* Prevent iOS zoom */
+    }
+
+    .preview-textarea {
+        font-size: 16px; /* Prevent iOS zoom */
+    }
+}
+
+@media (max-width: 400px) {
+    .example-list {
+        gap: 6px;
+    }
+
+    .chip-button {
+        font-size: 12px;
+        padding: 0 10px;
+        min-height: 32px;
+    }
+
+    .render-meta {
+        padding: 12px;
+    }
+
+    .preview-stage {
+        padding: 16px;
+    }
+
+    .preview-output {
+        min-height: 250px;
+        padding: 16px;
+    }
+}
+
+/* 深色模式支持 */
+@media (prefers-color-scheme: dark) {
+    .tool-panel,
+    .render-panel {
+        border-color: rgba(255, 255, 255, .1);
+    }
+}
+
+/* 减少动画偏好 */
+@media (prefers-reduced-motion: reduce) {
+    .tool-panel,
+    .render-panel,
+    .chip-button,
+    .icon-button,
+    .download-link,
+    .preview-output {
+        transition: none;
+    }
+
+    .chip-button:hover,
+    .icon-button:hover,
+    .download-link:hover {
+        transform: none;
+    }
+
+    .loading-spinner {
+        animation: none;
+    }
+}
+
+/* 高对比度模式支持 */
+@media (forced-colors: active) {
+    .tool-panel,
+    .render-panel {
+        border: 2px solid ButtonText;
+    }
+
+    .preview-textarea,
+    .control-select {
+        border: 2px solid ButtonText;
+    }
+
+    .chip-button,
+    .icon-button {
+        border: 2px solid ButtonText;
+    }
+
+    .download-link {
+        border: 2px solid ButtonText;
+    }
+}
+
+/* 打印样式 */
+@media print {
+    .preview-shell {
+        padding-top: 20px;
+    }
+
+    .tool-panel,
+    .render-panel {
+        border: 1px solid #ccc;
+        box-shadow: none;
+        background: white;
+        color: black;
+    }
+
+    .preview-textarea,
+    .control-select {
+        border: 1px solid #ccc;
+        background: white;
+        color: black;
+    }
+
+    .preview-output {
+        border: 1px solid #ccc;
+        background: white;
+        color: black;
+    }
+
+    .download-link,
+    .image-save-button {
+        display: none;
+    }
+}
+
+/* 焦点可见性增强 */
+.chip-button:focus-visible,
+.icon-button:focus-visible,
+.download-link:focus-visible,
+.control-select:focus-visible,
+.preview-textarea:focus-visible {
+    outline: 2px solid #d5aa4c;
+    outline-offset: 2px;
+}
+
+/* 无障碍改进 */
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+/* 工具提示样式 */
+[data-tooltip] {
+    position: relative;
+}
+
+[data-tooltip]::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 6px 10px;
+    background: rgba(0, 0, 0, .85);
+    color: white;
+    font-size: 12px;
+    border-radius: 4px;
+    white-space: nowrap;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.2s ease, visibility 0.2s ease;
+    pointer-events: none;
+    z-index: 100;
+}
+
+[data-tooltip]:hover::after,
+[data-tooltip]:focus::after {
+    opacity: 1;
+    visibility: visible;
+}

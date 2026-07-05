@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="米乎阅读模块，浏览原神游戏内文本。">
+    <meta name="author" content="">
+
+    <title>阅读 - 米乎</title>
+
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/coco.css?v=20260627-navfix">
+    <link rel="stylesheet" href="styles.css?v=20260627-reading">
+    <link href="../css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <div data-layout="navbar"></div>
+
+    <main class="reading-shell">
+        <div class="reading-main">
+            <section class="reading-hero">
+                <p class="reading-kicker">Reading Room</p>
+                <h1>阅读</h1>
+                <p>原神游戏内文本库，收录书籍、角色故事、武器和圣遗物文本。选择条目后可直接阅读，并保留阅读偏好与进度。</p>
+            </section>
+
+            <section class="reading-layout" aria-label="阅读模块">
+                <aside class="library-panel" aria-label="文本列表">
+                    <div class="library-controls">
+                        <label class="reading-search" for="text-search">
+                            <span aria-hidden="true">⌕</span>
+                            <input id="text-search" type="search" placeholder="搜索标题、地区、分类或文件名" autocomplete="off">
+                        </label>
+                        <div class="category-tabs" id="text-tabs" aria-label="阅读分类"></div>
+                    </div>
+
+                    <div class="library-summary">
+                        <h2 id="library-title">全部文本</h2>
+                        <span id="library-count"></span>
+                    </div>
+
+                    <div class="text-list" id="text-list" aria-label="可阅读文本"></div>
+
+                    <section class="empty-state" id="reading-empty" hidden>
+                        <h2>没有找到文本</h2>
+                        <p>换个关键词，或切回“全部”再试一次。</p>
+                    </section>
+                </aside>
+
+                <article class="reader-panel" aria-label="正文阅读">
+                    <header class="reader-header">
+                        <div>
+                            <p class="reader-meta" id="reader-meta"></p>
+                            <h2 id="reader-title"></h2>
+                            <p id="reader-summary"></p>
+                        </div>
+                        <button class="bookmark-button" id="bookmark-button" type="button" aria-pressed="false" title="收藏文本">
+                            <i class="fa fa-star-o" aria-hidden="true"></i>
+                        </button>
+                    </header>
+
+                    <div class="reader-toolbar" aria-label="阅读设置">
+                        <label>
+                            <span>字号</span>
+                            <input id="reader-size" type="range" min="16" max="26" step="1">
+                        </label>
+                        <label>
+                            <span>行宽</span>
+                            <input id="reader-width" type="range" min="560" max="920" step="20">
+                        </label>
+                        <label>
+                            <span>行高</span>
+                            <input id="reader-line-height" type="range" min="1.45" max="2" step="0.05">
+                        </label>
+                        <div class="theme-switcher" id="theme-switcher" aria-label="阅读主题">
+                            <button type="button" data-theme="night" title="夜间主题">夜</button>
+                            <button type="button" data-theme="paper" title="纸张主题">纸</button>
+                            <button type="button" data-theme="clear" title="清透主题">清</button>
+                        </div>
+                    </div>
+
+                    <div class="progress-wrap" aria-label="阅读进度">
+                        <span id="progress-label">0%</span>
+                        <div class="progress-track">
+                            <div class="progress-bar" id="progress-bar"></div>
+                        </div>
+                    </div>
+
+                    <div class="reader-body" id="reader-body"></div>
+                </article>
+            </section>
+        </div>
+    </main>
+
+    <div data-layout="footer"></div>
+
+    <script src="../js/jquery-1.11.0.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/jquery.easing.min.js"></script>
+    <script src="../js/layout.js?v=20260627-bg"></script>
+    <script src="../js/coco.js?v=20260627-bg"></script>
+    <script src="script.js?v=20260627-reading"></script>
+</body>
+
+</html>

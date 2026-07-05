@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="米乎工具集合页，汇总翻译、阅读、资源下载和导航检索入口。">
+    <meta name="author" content="">
+
+    <title>工具 - 米乎</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="../css/coco.css?v=20260627-navfix">
+    <link rel="stylesheet" href="styles.css?v=20260628-tools">
+
+    <!-- Custom Fonts -->
+    <link href="../css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <div data-layout="navbar"></div>
+
+    <main class="tools-shell">
+        <div class="tools-main">
+            <section class="tools-hero">
+                <p class="tools-kicker">Toolbox</p>
+                <h1>工具</h1>
+                <p>集中放置站内可直接使用的检索、翻译、阅读和资源处理入口。</p>
+            </section>
+
+            <section class="tools-controls" aria-label="工具筛选">
+                <label class="tools-search" for="tool-search">
+                    <span aria-hidden="true">⌕</span>
+                    <input id="tool-search" type="search" placeholder="搜索工具、用途或标签" autocomplete="off">
+                </label>
+                <div class="tools-tabs" id="tool-tabs" aria-label="工具分类"></div>
+            </section>
+
+            <section class="tools-summary" aria-live="polite">
+                <div>
+                    <p class="tools-kicker">Available</p>
+                    <h2 id="tools-title">全部工具</h2>
+                </div>
+                <span id="tools-count"></span>
+            </section>
+
+            <section class="tools-grid" id="tools-grid" aria-label="工具列表"></section>
+
+            <section class="tools-empty" id="tools-empty" hidden>
+                <span aria-hidden="true">✧</span>
+                <h2>没有找到工具</h2>
+                <p>换个关键词，或切回“全部”查看当前可用入口。</p>
+            </section>
+        </div>
+    </main>
+
+    <div data-layout="footer"></div>
+
+    <!-- jQuery Version 1.11.0 -->
+    <script src="../js/jquery-1.11.0.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="../js/jquery.easing.min.js"></script>
+
+    <!-- Shared Layout -->
+    <script src="../js/layout.js?v=20260627-bg"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="../js/coco.js?v=20260627-bg"></script>
+
+    <script src="script.js?v=20260628-tools"></script>
+</body>
+
+</html>

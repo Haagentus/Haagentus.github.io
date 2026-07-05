@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="输入英语或拉丁语，将其翻译成米游中的自创语言。">
+    <meta name="author" content="">
+
+    <title>翻译 - 米乎</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="../css/coco.css?v=20260627-navfix">
+    <link rel="stylesheet" href="styles.css?v=20260628-preview-export">
+
+    <!-- Custom Fonts -->
+    <link href="../css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <div data-layout="navbar"></div>
+
+    <main class="preview-shell">
+        <div class="preview-main">
+            <p class="page-kicker">Script Translator</p>
+            <h1 class="page-title">翻译</h1>
+            <p class="page-lead">输入英语或拉丁语，将其翻译成米游中的自创语言。</p>
+
+            <section class="preview-workspace" aria-label="文字翻译工具">
+                <div class="tool-panel">
+                    <div class="panel-block">
+                        <label class="control-label" for="preview-input">输入原文</label>
+                        <textarea class="preview-textarea" id="preview-input" spellcheck="false"></textarea>
+                    </div>
+
+                    <div class="panel-block">
+                        <span class="control-label">示例</span>
+                        <div class="example-list" id="example-list"></div>
+                    </div>
+
+                    <div class="panel-block range-grid">
+                        <label class="range-control">
+                            <span class="control-label">字号 <span class="range-value" id="font-size-value"></span></span>
+                            <input id="font-size" type="range" min="24" max="96" step="1">
+                        </label>
+                        <label class="range-control">
+                            <span class="control-label">字距 <span class="range-value" id="letter-spacing-value"></span></span>
+                            <input id="letter-spacing" type="range" min="0" max="12" step="1">
+                        </label>
+                    </div>
+
+                    <div class="panel-block range-grid">
+                        <label class="range-control">
+                            <span class="control-label">行高 <span class="range-value" id="line-height-value"></span></span>
+                            <input id="line-height" type="range" min="1" max="2" step="0.05">
+                        </label>
+                        <div>
+                            <span class="control-label">对齐</span>
+                            <div class="align-toggle" id="align-toggle">
+                                <button class="icon-button" type="button" data-align="left" title="左对齐">L</button>
+                                <button class="icon-button" type="button" data-align="center" title="居中">C</button>
+                                <button class="icon-button" type="button" data-align="right" title="右对齐">R</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <section class="render-panel" aria-label="翻译结果">
+                    <div class="render-meta">
+                        <div class="font-control-grid">
+                            <label>
+                                <span class="control-label">游戏</span>
+                                <select class="control-select" id="game-select"></select>
+                            </label>
+                            <label>
+                                <span class="control-label">语言</span>
+                                <select class="control-select" id="font-select"></select>
+                            </label>
+                        </div>
+                        <div class="render-font-row">
+                            <div class="render-heading">
+                                <h2 id="font-title"></h2>
+                                <p id="font-game"></p>
+                            </div>
+                            <a class="download-link" id="font-download" href="#">下载字体</a>
+                        </div>
+                    </div>
+                    <div class="preview-stage">
+                        <div class="preview-output" id="preview-output"></div>
+                        <a class="download-link image-save-button" id="save-image" type="button">保存图片</a>
+                    </div>
+                </section>
+            </section>
+        </div>
+    </main>
+
+    <div data-layout="footer"></div>
+
+    <!-- jQuery Version 1.11.0 -->
+    <script src="../js/jquery-1.11.0.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="../js/jquery.easing.min.js"></script>
+
+    <!-- Shared Layout -->
+    <script src="../js/layout.js?v=20260627-bg"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="../js/coco.js?v=20260627-bg"></script>
+
+    <script src="../js/font-data.js?v=20260627-font-desc"></script>
+    <script src="script.js?v=20260628-preview-export"></script>
+</body>
+
+</html>
