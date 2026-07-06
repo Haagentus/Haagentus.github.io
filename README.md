@@ -71,7 +71,7 @@ https://cdn.jsdelivr.net/gh/Haagentus/Haagentus.github.io@main/[文件路径]
 ### 更新图标
 如需更新favicon图标：
 1. 替换根目录中的对应文件
-2. 更新 `imgs/favicon_io/` 目录中的源文件
+2. 同步更新根目录中的 favicon 文件和 `site.webmanifest`
 3. 确保所有HTML文件中的引用路径正确
 
 ## 阅读文本
