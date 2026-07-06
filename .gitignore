@@ -31,6 +31,8 @@ AGENTS.md
 plan.md
 
 .agents/
+.codex/
+.mimocode/
 
 # PyInstaller
 #   Usually these files are written by a python script from a template

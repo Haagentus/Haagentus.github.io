@@ -1,5 +1,5 @@
 (function() {
-    var brandName = '米游相关导航站';
+    var brandName = '米游相关网站导航';
     var brandPrefix = '米乎';
     var languageStorageKey = 'mihoyy-site-language';
     var languageFontStorageKey = 'mihoyy-site-language-font';
