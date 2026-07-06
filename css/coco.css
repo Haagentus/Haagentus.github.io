@@ -4,12 +4,14 @@ body {
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
     background-color: #05070b;
+    position: relative;
+    isolation: isolate;
 }
 
 .site-background {
     position: fixed;
     inset: 0;
-    z-index: -2;
+    z-index: 0;
     overflow: hidden;
     background: #05070b;
     pointer-events: none;
@@ -44,6 +46,7 @@ body {
 .navbar,
 header,
 section,
+main,
 footer {
     position: relative;
     z-index: 1;

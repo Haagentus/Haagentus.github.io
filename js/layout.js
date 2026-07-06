@@ -5,16 +5,17 @@
     var languageFontStorageKey = 'mihoyy-site-language-font';
     var currentLanguage = localStorage.getItem(languageStorageKey) === 'en' ? 'en' : 'zh';
     var fullBrand = brandPrefix + brandName;
+    var originalDocumentTitle = document.title;
     var currentPath = window.location.pathname;
     var isHome = currentPath === '/' || /\/index\.html$/.test(currentPath);
     var basePath = document.querySelector('link[href^="../"]') ? '../' : '';
     var backgroundImages = [
-        '/imgs/001.webp',
-        '/imgs/002.webp',
-        '/imgs/003.webp',
-        '/imgs/004.webp',
-        '/imgs/005.webp',
-        '/imgs/006.webp'
+        'imgs/001.webp',
+        'imgs/002.webp',
+        'imgs/003.webp',
+        'imgs/004.webp',
+        'imgs/005.webp',
+        'imgs/006.webp'
     ];
     var fallbackFonts = [
         { name: 'Teyvat Black', path: '/fonts/Genshin-Impact/TeyvatBlack-Regular.woff2' },
@@ -38,7 +39,7 @@
         '下载': 'Downloads',
         '关于': 'About',
         '联系': 'Contact',
-        '连接导航、翻译、阅读、工具与资源下载的轻量站点。': 'A lightweight portal for navigation, translation, reading, tools, and downloads.',
+        '只要不失去你的崇高，整个世界都会向你敞开。': 'The world opens itself before those with noble hearts.',
         '关于米乎': 'About Mihoyo Hub',
         '关于与联系': 'About & Contact',
         '米乎网站用于整理常用导航、阅读资料、实用工具和资源入口，让访问路径更清晰。': 'Mihoyo Hub organizes useful links, reading material, tools, and resource entries into clearer routes.',
@@ -315,19 +316,15 @@
 
     var titleMap = {
         '米乎': 'Mihoyo Hub',
-        '导航 - 络米星联米宇宙': 'Nav - Mihoyo Resource Hub',
-        '阅读 - 米乎': 'Reading - Mihoyo Hub',
-        '翻译 - 米乎': 'Translator - Mihoyo Hub',
-        '工具 - 米乎': 'Tools - Mihoyo Hub',
-        '下载 - 米乎': 'Downloads - Mihoyo Hub'
+        '导航 - 络米星联': 'Nav - Mihoyo Resource Hub',
+        '阅读 - 络米星联': 'Reading - Mihoyo Hub',
+        '翻译 - 络米星联': 'Translator - Mihoyo Hub',
+        '工具 - 络米星联': 'Tools - Mihoyo Hub',
+        '下载 - 络米星联': 'Downloads - Mihoyo Hub'
     };
 
     function translateTitle() {
-        var original = document.title;
-        if (!document.title._mihoyyOriginal) {
-            document.title._mihoyyOriginal = original;
-        }
-        var key = document.title._mihoyyOriginal;
+        var key = originalDocumentTitle;
         if (currentLanguage === 'en' && titleMap[key]) {
             document.title = titleMap[key];
         } else {
@@ -386,7 +383,7 @@
             '<div class="site-background" aria-hidden="true">',
             backgroundImages.map(function(src, index) {
                 var active = index === 0 ? ' is-active' : '';
-                return '    <div class="site-background__layer' + active + '" data-bg-index="' + index + '" style="background-image: url(' + src + ');"></div>';
+                return '    <div class="site-background__layer' + active + '" data-bg-index="' + index + '" style="background-image: url(' + basePath + src + ');"></div>';
             }).join('\n'),
             '    <div class="site-background__shade"></div>',
             '</div>'
