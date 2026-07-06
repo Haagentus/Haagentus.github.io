@@ -23,6 +23,30 @@
 
 翻译页和下载页共用 `js/font-data.js` 中的字体清单。清单包含字体名称、用途说明、文件路径、大小和例句；新增字体时，请同步补充该文件，并更新相关说明。
 
+## CDN配置
+
+项目使用 jsDelivr CDN 加速图片资源访问，配置文件位于 `js/cdn-config.js`。
+
+### CDN地址格式
+```
+https://cdn.jsdelivr.net/gh/Haagentus/Haagentus.github.io@main/[文件路径]
+```
+
+### 配置选项
+- `enabled`: 是否启用CDN（默认：true）
+- `baseUrl`: CDN基础地址
+- `fallbackToLocal`: CDN失败时是否回退到本地（默认：true）
+
+### 使用方式
+1. JavaScript文件中使用 `getImageUrl(path)` 函数获取CDN地址
+2. Markdown文件中的图片已自动替换为CDN地址
+3. CSS文件中的背景图已替换为CDN地址
+
+### 注意事项
+- 更新图片后，CDN缓存可能需要时间刷新
+- 可通过添加版本号刷新缓存：`@v1.0.0/文件路径`
+- 如需禁用CDN，修改 `js/cdn-config.js` 中的 `enabled` 为 `false`
+
 ## 阅读文本
 
 `reading/GI-Ebook/` 存放原神游戏内文本 Markdown。阅读页使用 `reading/catalog.json` 作为索引；当 GI-Ebook 内容更新后，运行：

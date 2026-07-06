@@ -9,6 +9,23 @@
     var currentPath = window.location.pathname;
     var isHome = currentPath === '/' || /\/index\.html$/.test(currentPath);
     var basePath = document.querySelector('link[href^="../"]') ? '../' : '';
+    
+    // CDN配置
+    var CDN_CONFIG = {
+        enabled: true,
+        baseUrl: 'https://cdn.jsdelivr.net/gh/Haagentus/Haagentus.github.io@main',
+        fallbackToLocal: true
+    };
+    
+    // 获取图片URL的辅助函数
+    function getImageUrl(path) {
+        if (CDN_CONFIG.enabled && path) {
+            var cleanPath = path.startsWith('/') ? path.substring(1) : path;
+            return CDN_CONFIG.baseUrl + '/' + cleanPath;
+        }
+        return path;
+    }
+    
     var backgroundImages = [
         'imgs/001.webp',
         'imgs/002.webp',
@@ -383,7 +400,8 @@
             '<div class="site-background" aria-hidden="true">',
             backgroundImages.map(function(src, index) {
                 var active = index === 0 ? ' is-active' : '';
-                return '    <div class="site-background__layer' + active + '" data-bg-index="' + index + '" style="background-image: url(' + basePath + src + ');"></div>';
+                var imgUrl = getImageUrl(src);
+                return '    <div class="site-background__layer' + active + '" data-bg-index="' + index + '" style="background-image: url(' + imgUrl + ');"></div>';
             }).join('\n'),
             '    <div class="site-background__shade"></div>',
             '</div>'
