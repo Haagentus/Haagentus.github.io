@@ -91,7 +91,7 @@
         '纸张主题': 'Paper Theme',
         '清透主题': 'Clear Theme',
         '阅读进度': 'Reading progress',
-        '输入英语或拉丁语，将其翻译成米游中的自创语言。': 'Type English or Latin, and render it in miHoYo invented scripts.',
+        '风带来故事的种子，时间使之发芽。': 'Seeds of stories, brought by the wind and cultivated by time.',
         '输入原文': 'Input text',
         '示例': 'Examples',
         '字距': 'Spacing',

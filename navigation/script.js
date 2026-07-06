@@ -70,6 +70,15 @@ const sites = [
     category: "绝区零",
     tag: "工具"
   },
+  {
+    title: "米哈游导航站",
+    url: "https://hoyo.tools/",
+    description: "这是一个收录米哈游游戏相关项目的导航站",
+    category: "综合",
+    tag: "工具"
+  },
+
+  
      {
     title: "Hilipedia 丘丘百科",
     url: "https://speedyorc-c.github.io/Hilipedia/",

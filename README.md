@@ -47,6 +47,33 @@ https://cdn.jsdelivr.net/gh/Haagentus/Haagentus.github.io@main/[文件路径]
 - 可通过添加版本号刷新缓存：`@v1.0.0/文件路径`
 - 如需禁用CDN，修改 `js/cdn-config.js` 中的 `enabled` 为 `false`
 
+## 网页图标 (Favicon)
+
+网站已配置完整的favicon图标套件，支持各种设备和浏览器。
+
+### 图标文件
+- `favicon.ico`：标准favicon图标（多尺寸）
+- `favicon-16x16.png`：16x16像素PNG图标
+- `favicon-32x32.png`：32x32像素PNG图标
+- `apple-touch-icon.png`：Apple设备图标（180x180）
+- `android-chrome-192x192.png`：Android设备图标
+- `android-chrome-512x512.png`：Android设备大图标
+- `site.webmanifest`：Web应用清单文件
+
+### 使用方式
+所有HTML文件已添加标准favicon引用，支持：
+- 桌面浏览器（favicon.ico）
+- 移动浏览器（PNG图标）
+- Apple设备（apple-touch-icon）
+- Android设备（通过site.webmanifest）
+- PWA应用（manifest）
+
+### 更新图标
+如需更新favicon图标：
+1. 替换根目录中的对应文件
+2. 更新 `imgs/favicon_io/` 目录中的源文件
+3. 确保所有HTML文件中的引用路径正确
+
 ## 阅读文本
 
 `reading/GI-Ebook/` 存放原神游戏内文本 Markdown。阅读页使用 `reading/catalog.json` 作为索引；当 GI-Ebook 内容更新后，运行：
