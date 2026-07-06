@@ -5,13 +5,13 @@
             key: 'genshin',
             accent: '#d5aa4c',
             fonts: [
-                { name: 'Teyvat Black', description: '提瓦特通用字母', file: 'TeyvatBlack-Regular.woff2', path: '/fonts/Genshin-Impact/TeyvatBlack-Regular.woff2', size: '11.4 KB', sample: 'Ad astra abyssosque' },
-                { name: 'Fontaine Ainee', description: '枫丹字母', file: 'FontAinee-Regular.woff2', path: '/fonts/Genshin-Impact/FontAinee-Regular.woff2', size: '6.0 KB', sample: 'Justice like water' },
-                { name: 'Deshret Inscription', description: '赤冠字母', file: 'DeshretInscription-Regular.woff2', path: '/fonts/Genshin-Impact/DeshretInscription-Regular.woff2', size: '2.8 KB', sample: 'the Three Magi' },
-                { name: 'Inazuma Brush', description: '稻妻字母', file: 'InazumaBrush-Regular.woff2', path: '/fonts/Genshin-Impact/InazumaBrush-Regular.woff2', size: '14.8 KB', sample: 'stretches the moment' },
-                { name: 'Khaenriah Sun', description: '坎瑞亚字母（常规）', file: 'KhaenriahSun-Regular.woff2', path: '/fonts/Genshin-Impact/KhaenriahSun-Regular.woff2', size: '24.8 KB', sample: 'The eclipse dynasty' },
-                { name: 'Khaenriah Sun Chasm', description: '坎瑞亚字母（层岩巨渊变体）', file: 'KhaenriahSun-Chasm.woff2', path: '/fonts/Genshin-Impact/KhaenriahSun-Chasm.woff2', size: '24.8 KB', sample: 'Echoes from Chasm' },
-                { name: 'Sumeru Scribe', description: '须弥字母', file: 'SumeruScribe-Regular.woff2', path: '/fonts/Genshin-Impact/SumeruScribe-Regular.woff2', size: '11.1 KB', sample: 'Wisdom written leaves' }
+                { name: 'Teyvat Black', description: '提瓦特通用字母', file: 'TeyvatBlack-Regular.woff2', path: '/fonts/Genshin-Impact/TeyvatBlack-Regular.woff2', size: '11.4 KB', sample: 'aba mosi dada' },
+                { name: 'Fontaine Ainee', description: '枫丹字母', file: 'FontAinee-Regular.woff2', path: '/fonts/Genshin-Impact/FontAinee-Regular.woff2', size: '6.0 KB', sample: 'unta mosi dada' },
+                { name: 'Deshret Inscription', description: '赤冠字母', file: 'DeshretInscription-Regular.woff2', path: '/fonts/Genshin-Impact/DeshretInscription-Regular.woff2', size: '2.8 KB', sample: 'mosi aba nunu' },
+                { name: 'Inazuma Brush', description: '稻妻字母', file: 'InazumaBrush-Regular.woff2', path: '/fonts/Genshin-Impact/InazumaBrush-Regular.woff2', size: '14.8 KB', sample: 'unta nunu' },
+                { name: 'Khaenriah Sun', description: '坎瑞亚字母（常规）', file: 'KhaenriahSun-Regular.woff2', path: '/fonts/Genshin-Impact/KhaenriahSun-Regular.woff2', size: '24.8 KB', sample: 'kucha gusha' },
+                { name: 'Khaenriah Sun Chasm', description: '坎瑞亚字母（层岩巨渊变体）', file: 'KhaenriahSun-Chasm.woff2', path: '/fonts/Genshin-Impact/KhaenriahSun-Chasm.woff2', size: '24.8 KB', sample: 'mosi mita' },
+                { name: 'Sumeru Scribe', description: '须弥字母', file: 'SumeruScribe-Regular.woff2', path: '/fonts/Genshin-Impact/SumeruScribe-Regular.woff2', size: '11.1 KB', sample: 'odomu olah' }
             ]
         },
         {

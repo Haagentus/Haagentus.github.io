@@ -48,7 +48,7 @@
     ];
     var textMap = {
         '米乎': 'Mihoyo Hub',
-        '米游相关导航站': 'Mihoyo Resource Hub',
+        '米游相关网站导航': 'Mihoyo Resource Hub',
         '导航': 'Nav',
         '翻译': 'Translator',
         '阅读': 'Reading',
