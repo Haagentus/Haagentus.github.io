@@ -3,7 +3,7 @@ $baseUrl = "https://cdn.jsdelivr.net/gh/Haagentus/Haagentus.github.io@main"
 $mdFiles = Get-ChildItem -Path "E:\Haagentus\Haagentus.github.io\reading\GI-Ebook\books" -Filter "*.md" -Recurse
 
 foreach ($file in $mdFiles) {
-    $content = Get-Content -Path $file.FullName -Raw
+    $content = Get-Content -LiteralPath $file.FullName -Raw -Encoding utf8
     
     # 替换图片引用
     # 匹配格式: ![alt](images/filename.png)
@@ -13,7 +13,7 @@ foreach ($file in $mdFiles) {
     $newContent = [regex]::Replace($content, $pattern, $replacement)
     
     if ($newContent -ne $content) {
-        Set-Content -Path $file.FullName -Value $newContent -NoNewline
+        Set-Content -LiteralPath $file.FullName -Value $newContent -Encoding utf8 -NoNewline
         Write-Host "Updated: $($file.Name)"
     }
 }
