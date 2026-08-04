@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T11:12:21.621Z",
+  "generatedAt": "2026-07-31T06:59:49.189Z",
   "source": "GI-Ebook",
   "items": [
     {
@@ -913,6 +913,14 @@
       "category": "角色故事",
       "region": "至冬",
       "path": "GI-Ebook/characters/至冬-达达利亚.md"
+    },
+    {
+      "id": "characters/至冬-桑多涅",
+      "title": "桑多涅",
+      "sourceTitle": "至冬-桑多涅",
+      "category": "角色故事",
+      "region": "至冬",
+      "path": "GI-Ebook/characters/至冬-桑多涅.md"
     },
     {
       "id": "artifacts/被怜爱的少女",
@@ -2403,6 +2411,14 @@
       "path": "GI-Ebook/books/亡国的美奈姬.md"
     },
     {
+      "id": "books/望月者的摹刻",
+      "title": "望月者的摹刻",
+      "sourceTitle": "望月者的摹刻",
+      "category": "书籍",
+      "region": "",
+      "path": "GI-Ebook/books/望月者的摹刻.md"
+    },
+    {
       "id": "books/温妮莎传奇",
       "title": "温妮莎传奇",
       "sourceTitle": "温妮莎传奇",
@@ -2809,6 +2825,14 @@
       "category": "武器",
       "region": "",
       "path": "GI-Ebook/weapons/测距规.md"
+    },
+    {
+      "id": "weapons/超越之匙",
+      "title": "超越之匙",
+      "sourceTitle": "超越之匙",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/超越之匙.md"
     },
     {
       "id": "weapons/尘光七谕",
@@ -4345,6 +4369,14 @@
       "category": "武器",
       "region": "",
       "path": "GI-Ebook/weapons/钺矛.md"
+    },
+    {
+      "id": "weapons/灾悔",
+      "title": "灾悔",
+      "sourceTitle": "灾悔",
+      "category": "武器",
+      "region": "",
+      "path": "GI-Ebook/weapons/灾悔.md"
     },
     {
       "id": "weapons/昭心",

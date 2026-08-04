@@ -333,11 +333,11 @@
 
     var titleMap = {
         '米乎': 'Mihoyo Hub',
-        '导航 - 络米星联': 'Nav - Mihoyo Resource Hub',
-        '阅读 - 络米星联': 'Reading - Mihoyo Hub',
-        '翻译 - 络米星联': 'Translator - Mihoyo Hub',
-        '工具 - 络米星联': 'Tools - Mihoyo Hub',
-        '下载 - 络米星联': 'Downloads - Mihoyo Hub'
+        '导航 - 米乎': 'Nav - Mihoyo Hub',
+        '阅读 - 米乎': 'Reading - Mihoyo Hub',
+        '翻译 - 米乎': 'Translator - Mihoyo Hub',
+        '工具 - 米乎': 'Tools - Mihoyo Hub',
+        '下载 - 米乎': 'Downloads - Mihoyo Hub'
     };
 
     function translateTitle() {

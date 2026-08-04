@@ -2,8 +2,8 @@ import { readdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
 const root = process.cwd();
-const sourceRoot = path.join(root, 'texts', 'GI-Ebook');
-const outputPath = path.join(root, 'texts', 'catalog.json');
+const sourceRoot = path.join(root, 'reading', 'GI-Ebook');
+const outputPath = path.join(root, 'reading', 'catalog.json');
 
 const sections = [
   { dir: 'books', label: '书籍' },
