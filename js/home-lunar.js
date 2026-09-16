@@ -10,7 +10,10 @@
     var progress = 0;
     var target = 35;
     var started = performance.now();
-    var duration = 6000;
+    // Keep a visible transition even when the system asks for reduced motion.
+    // The progress reveal is the page's loading feedback, so removing it makes
+    // the entrance appear stuck at 100% on the first rendered frame.
+    var duration = reducedMotion ? 1400 : 6000;
     var ready = false;
     intro.classList.add('is-loading');
 
@@ -26,7 +29,7 @@
     var fallback = window.setTimeout(function () { target = 100; }, 8000);
 
     function frame(now) {
-        progress = reducedMotion ? target : Math.min(target, (now - started) / duration * 100);
+        progress = Math.min(target, (now - started) / duration * 100);
         var value = Math.floor(progress);
         readout.textContent = value + '%';
         loader.setAttribute('aria-valuenow', value);
