@@ -27,10 +27,24 @@ const sites = [
     category: "原神",
     tag: "文档"
   },
+  {
+    title: "Genshin Impact Wiki",
+    url: "https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki",
+    description: "原神角色、世界观、任务与物品资料百科",
+    category: "原神",
+    tag: "文档"
+  },
    {
     title: "原神中英日辞典",
     url: "https://genshin-dictionary.com/zh-CN",
     description: "一个在线的中日英三语词典，收录了《原神》中使用的专有词汇。",
+    category: "原神",
+    tag: "工具"
+  },
+  {
+    title: "Teyvat WeChat",
+    url: "https://teyvat-wechat.onrender.com/",
+    description: "提瓦特主题的微信聊天模拟工具",
     category: "原神",
     tag: "工具"
   },
